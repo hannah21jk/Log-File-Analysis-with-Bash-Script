@@ -1,0 +1,1798 @@
+1.  Request Counts:
+----------------------------
+Total Requests: 1999
+GET Requests: 0
+POST Requests: 0
+
+2.  Unique IP Addresses:
+----------------------------
+Total Unique IPs: 1
+
+GET & POST count per IP:
+03-17 - GET: 0, POST: 0
+
+3.  Failure Requests (4xx & 5xx):
+----------------------------
+Failed Requests: 0
+Failure Rate: 0.00%
+
+4.  Most Active IP:
+----------------------------
+   2000 03-17
+
+5.  Daily Request Averages:
+----------------------------
+Average Requests per Day: 249.88
+
+6.  Days with Most Failures:
+----------------------------
+      2 7111
+      2 3693
+      2 2514
+      2 1737
+      1 3137
+      1 27357
+      1 27353
+      1 2107
+      1 1702
+      1 14640
+
+7.  Request by Hour:
+----------------------------
+      3 00.001  1702  2096 I AlarmManager:00
+      2 00.002  1702  2096 D PowerManagerService:00
+      1 00.003  1702  1702 V AlarmManager:00
+      2 00.003  1702  2096 D PowerManagerService:00
+      1 00.004  1702  1702 I AlarmManager:00
+      2 00.004  1702  2096 D PowerManagerService:00
+      1 00.005  1702  1702 I AlarmManager:00
+      2 00.005  1702  1702 V AlarmManager:00
+      1 00.006  1702  1702 I AlarmManager:00
+      2 00.022  2227  2227 I StackScrollAlgorithm:00
+      2 00.026  2227  2227 I StackScrollAlgorithm:00
+      2 00.031  2227  2227 I StackScrollAlgorithm:00
+      2 00.039  2227  2227 I StackScrollAlgorithm:00
+      1 00.049  2227  2227 D KeyguardUpdateMonitor:00
+      2 00.049  2227  2227 I StackScrollAlgorithm:00
+      1 00.050  2227  2227 D KeyguardUpdateMonitor:00
+      2 00.050  2227  2227 I StackScrollAlgorithm:00
+      1 00.058  2227  2227 D KeyguardUpdateMonitor:00
+      1 00.061  2227  2227 D KeyguardUpdateMonitor:00
+      1 00.062  2227  2227 D KeyguardUpdateMonitor:00
+      1 00.064  2227  2227 D KeyguardUpdateMonitor:00
+      2 00.090  1702  1820 I DisplayPowerController:00
+      1 00.091  1702  1820 D DisplayPowerController:00
+      1 00.099  1702  8671 W ActivityManager:00
+      2 00.233 28601 28601 V AudioManager:00
+      1 00.249  1702  8290 I WindowManager:00
+      1 00.284  7111  7111 V AudioManager:00
+      1 00.289  1702  2250 I WindowManager:00
+      1 00.338  1702  1737 D PowerManagerService:00
+      1 00.341  1702  1737 D PowerManagerService:00
+      1 00.345  1702  1737 D PowerManagerService:00
+      2 00.349  1702  1702 D PowerManagerService:00
+      2 00.354  1702  1702 D PowerManagerService:00
+      1 00.364  1702  1737 D PowerManagerService:00
+      2 00.366  1702  1737 D PowerManagerService:00
+      1 00.367  1702  1737 D PowerManagerService:00
+      1 00.368  1702  1737 D PowerManagerService:00
+      1 00.392  1702  1820 D DisplayPowerController:00
+      2 00.392  1702  1820 I DisplayPowerController:00
+      1 00.429  1702  1702 D PowerManagerService:00
+      1 00.484  2227  2227 I PhoneStatusBar:00
+      1 00.484  2227  2227 V PhoneStatusBar:00
+      1 00.489  7111  7111 I MediaPlayer:00
+      1 00.505  2227  2227 V PhoneStatusBar:00
+      1 00.508  2227  2227 I PhoneStatusBar:00
+      1 00.509  2227  2227 I PhoneStatusBar:00
+      1 00.509  2227  2227 V PhoneStatusBar:00
+      1 00.514  2227  2227 I PhoneStatusBar:00
+      1 00.514  2227  2227 V PhoneStatusBar:00
+      1 00.520  7111  7111 V AudioManager:00
+      1 00.537  2227  2227 V PhoneStatusBar:00
+      1 00.538  2227  2227 I PhoneStatusBar:00
+      1 00.550  2227  2227 I PhoneStatusBar:00
+      1 00.550  2227  2227 V PhoneStatusBar:00
+      1 00.693  1702  1820 D DisplayPowerController:00
+      2 00.693  1702  1820 I DisplayPowerController:00
+      1 00.919  1702  2105 D PowerManagerService:00
+      1 00.920  1702  2105 D PowerManagerService:00
+      3 00.939  1702  2558 D PowerManagerService:00
+      1 00.967  1702  3137 I AlarmManager:00
+      1 00.994  1702  1820 D DisplayPowerController:00
+      2 00.994  1702  1820 I DisplayPowerController:00
+      1 01.098  1702  2633 I WindowManager:00
+      1 01.105  2227  2227 V PhoneStatusBar:00
+      1 01.106  2227  2227 I PhoneStatusBar:00
+      1 01.142  1702 17632 D PowerManagerService:00
+      2 01.143  1702 17632 D PowerManagerService:00
+      1 01.183  2227  2227 I PhoneStatusBar:00
+      1 01.183  2227  2227 V PhoneStatusBar:00
+      1 01.208  2227  2227 I PhoneStatusBar:00
+      1 01.208  2227  2227 V PhoneStatusBar:00
+      1 01.295  1702  1820 D DisplayPowerController:00
+      2 01.295  1702  1820 I DisplayPowerController:00
+      1 01.318  2227  2227 I PhoneStatusBar:00
+      1 01.318  2227  2227 V PhoneStatusBar:00
+      1 01.319  1702  1815 I WindowManager:00
+      1 01.469  1702  2105 D PowerManagerService:00
+      1 01.470  1702  2105 D PowerManagerService:00
+      2 01.530 28601 28601 V AudioManager:00
+      1 01.585  1702  1736 W ActivityManager:00
+      1 01.598  1702  1820 D DisplayPowerController:00
+      2 01.598  1702  1820 I DisplayPowerController:00
+      1 01.800  1702  2105 D PowerManagerService:00
+      1 01.801  1702  2105 D PowerManagerService:00
+      1 01.805  1702 27357 D PowerManagerService:00
+      2 01.806  1702 27357 D PowerManagerService:00
+      2 01.811  1702  1737 D PowerManagerService:00
+      1 01.815  1702  2395 D PowerManagerService:00
+      1 01.817  1702 27353 D PowerManagerService:00
+      1 01.819  1702  3694 D PowerManagerService:00
+      1 01.821  1702  2555 D PowerManagerService:00
+      1 01.866  1702  2633 D PowerManagerService:00
+      1 01.899  1702  1820 D DisplayPowerController:00
+      2 01.899  1702  1820 I DisplayPowerController:00
+      1 01.939  2626  2839 W PhoneInterfaceManager:00
+      1 01.940  2626  2839 I PhoneInterfaceManager:00
+      1 01.964  2227  2227 I PhoneStatusBar:00
+      1 01.964  2227  2227 V PhoneStatusBar:00
+      1 01.978  2227  2227 I PhoneStatusBar:00
+      1 01.978  2227  2227 V PhoneStatusBar:00
+      1 01.994  2626 22775 I PhoneInterfaceManager:00
+      1 01.994  2626 22775 W PhoneInterfaceManager:00
+      1 02.016  1702  2113 D PowerManagerService:00
+      1 02.017  1702  2113 D PowerManagerService:00
+      1 02.018  1702  2113 D PowerManagerService:00
+      1 02.022  3664  3807 D TelephonyManager:00
+      1 02.027  2626  2643 W PhoneInterfaceManager:00
+      1 02.028  2626  2643 I PhoneInterfaceManager:00
+      2 02.030  1702 14640 D PowerManagerService:00
+      2 02.043  1702  2618 D PowerManagerService:00
+      1 02.045  2227  2227 I PhoneStatusBar:00
+      1 02.045  2227  2227 V PhoneStatusBar:00
+      1 02.051  2626  2808 W PhoneInterfaceManager:00
+      1 02.052  2626  2808 I PhoneInterfaceManager:00
+      2 02.054  1702  8290 D PowerManagerService:00
+      1 02.056  2227  2227 V PhoneStatusBar:00
+      1 02.057  2227  2227 I PhoneStatusBar:00
+      2 02.064  1702 17622 D PowerManagerService:00
+      2 02.065  1702  3137 D PowerManagerService:00
+      1 02.066  2227  2227 I PhoneStatusBar:00
+      1 02.066  2227  2227 V PhoneStatusBar:00
+      1 02.080  2227  2227 I PhoneStatusBar:00
+      1 02.080  2227  2227 V PhoneStatusBar:00
+      2 02.085  1702 17630 D PowerManagerService:00
+      1 02.087  2626  2642 I PhoneInterfaceManager:00
+      1 02.087  2626  2642 W PhoneInterfaceManager:00
+      1 02.090  2227  2227 I PhoneStatusBar:00
+      1 02.090  2227  2227 V PhoneStatusBar:00
+      1 02.107  2227  2227 I PhoneStatusBar:00
+      1 02.107  2227  2227 V PhoneStatusBar:00
+      1 02.121  2227  2227 V PhoneStatusBar:00
+      1 02.122  2227  2227 I PhoneStatusBar:00
+      1 02.136  2227  2227 I PhoneStatusBar:00
+      1 02.136  2227  2227 V PhoneStatusBar:00
+      1 02.147  2227  2227 V PhoneStatusBar:00
+      1 02.148  2227  2227 I PhoneStatusBar:00
+      1 02.155  2227  2227 V PhoneStatusBar:00
+      1 02.156  2227  2227 I PhoneStatusBar:00
+      1 02.164  2227  2227 I PhoneStatusBar:00
+      1 02.164  2227  2227 V PhoneStatusBar:00
+      1 02.181  2227  2227 V PhoneStatusBar:00
+      1 02.182  2227  2227 I PhoneStatusBar:00
+      1 02.195  2227  2227 I PhoneStatusBar:00
+      1 02.195  2227  2227 V PhoneStatusBar:00
+      1 02.202  1702  1820 D DisplayPowerController:00
+      2 02.202  1702  1820 I DisplayPowerController:00
+      1 02.213  2227  2227 V PhoneStatusBar:00
+      1 02.214  2227  2227 I PhoneStatusBar:00
+      1 02.240  1702  2105 D PowerManagerService:00
+      1 02.241  1702  2105 D PowerManagerService:00
+      1 02.502  1702  1820 D DisplayPowerController:00
+      2 02.502  1702  1820 I DisplayPowerController:00
+      1 02.602  1702  2105 D PowerManagerService:00
+      1 02.603  1702  2105 D PowerManagerService:00
+      1 02.756  1702  2105 D PowerManagerService:00
+      1 02.757  1702  2105 D PowerManagerService:00
+      1 02.765  2227  2227 I PhoneStatusBar:00
+      1 02.765  2227  2227 V PhoneStatusBar:00
+      1 02.781  2227  2227 I PhoneStatusBar:00
+      1 02.781  2227  2227 V PhoneStatusBar:00
+      1 02.802  1702  1820 D DisplayPowerController:00
+      2 02.802  1702  1820 I DisplayPowerController:00
+      1 02.818  2227  2227 I PhoneStatusBar:00
+      1 02.818  2227  2227 V PhoneStatusBar:00
+      1 02.833  2227  2227 V PhoneStatusBar:00
+      1 02.834  2227  2227 I PhoneStatusBar:00
+      1 02.895  1702  1820 D PowerManagerService:00
+      2 02.896  1702  1820 I DisplayPowerController:00
+      1 02.897  1702  1820 D DisplayPowerController:00
+      1 02.897  2227  2227 D KeyguardUpdateMonitor:00
+      1 02.897  2227  2227 W KeyguardUpdateMonitor:00
+      1 02.898  1702  1702 I DeviceIdleController:00
+      2 02.899  1702  1702 D WifiService:00
+      3 02.899  1702  2121 D WifiController:00
+      1 02.899  2227  2227 D KeyguardUpdateMonitor:00
+      1 02.899  2227  2227 V KeyguardUpdateMonitor:00
+      1 02.899  2227  2227 W KeyguardUpdateMonitor:00
+      1 02.900  2227  2227 V KeyguardUpdateMonitor:00
+      1 02.903  1702  2618 D PowerManagerService:00
+      1 02.913  2227  2227 I PhoneStatusBar:00
+      1 02.913  2227  2227 V PhoneStatusBar:00
+      1 02.928  1702 27365 D PowerManagerService:00
+      1 02.932  2227  2227 V PhoneStatusBar:00
+      1 02.933  2227  2227 I PhoneStatusBar:00
+      1 03.001  2227  2227 V PhoneStatusBar:00
+      1 03.002  2227  2227 I PhoneStatusBar:00
+      1 03.104  1702  1820 D DisplayPowerController:00
+      2 03.104  1702  1820 I DisplayPowerController:00
+      1 03.115  2227  2227 V PhoneStatusBar:00
+      1 03.116  2227  2227 I PhoneStatusBar:00
+      1 03.133  2227  2227 V PhoneStatusBar:00
+      1 03.134  2227  2227 I PhoneStatusBar:00
+      1 03.219  1702  2105 D PowerManagerService:00
+      1 03.220  1702  2105 D PowerManagerService:00
+      1 03.281  2227  2227 I PhoneStatusBar:00
+      1 03.281  2227  2227 V PhoneStatusBar:00
+      1 03.294  1702  1820 D DisplayPowerController:00
+      2 03.294  1702  1820 I DisplayPowerController:00
+      1 03.306  2227  2227 V PhoneStatusBar:00
+      1 03.307  2227  2227 I PhoneStatusBar:00
+      1 03.351  1702  8303 D PowerManagerService:00
+      1 03.352  1702  3693 D PowerManagerService:00
+      1 03.352  1702  8303 D PowerManagerService:00
+      1 03.354  1702 27353 D PowerManagerService:00
+      1 03.354  1702  3693 D PowerManagerService:00
+      1 03.355  1702 27353 D PowerManagerService:00
+      1 03.360  1702 17622 D PowerManagerService:00
+      2 03.361  1702 17622 D PowerManagerService:00
+      1 03.405  1702  1820 D DisplayPowerController:00
+      2 03.405  1702  1820 I DisplayPowerController:00
+      1 03.502  1702  2639 W ActivityManager:00
+      1 03.671  1702 17621 W ActivityManager:00
+      1 03.671  1702  2639 W ActivityManager:00
+      1 03.691  1702 10454 W ActivityManager:00
+      1 03.691  1702 27357 W ActivityManager:00
+      1 03.707  1702  1820 D DisplayPowerController:00
+      2 03.707  1702  1820 I DisplayPowerController:00
+      1 03.871  1702  2105 D PowerManagerService:00
+      1 03.872  1702  2105 D PowerManagerService:00
+      1 04.010  2227  2227 I PhoneStatusBar:00
+      1 04.010  2227  2227 V PhoneStatusBar:00
+      1 04.094  1702  2105 D PowerManagerService:00
+      1 04.095  1702  2105 D PowerManagerService:00
+      1 04.100  2227  2227 I PhoneStatusBar:00
+      2 04.105  1702 27353 D WindowManager:00
+      1 04.106  1702  2105 D PowerManagerService:00
+      1 04.107  1702  2105 D PowerManagerService:00
+      1 04.161  2227  2227 I PhoneStatusBar:00
+      1 04.162  1702 17621 D PowerManagerService:00
+      1 04.163  1702 17621 D PowerManagerService:00
+      2 04.165  1702 10454 D WindowManager:00
+      1 04.165  2227  2318 V AudioManager:00
+      1 04.185  1702  2105 D PowerManagerService:00
+      1 04.186  1702  2105 D PowerManagerService:00
+      1 04.189  2227  2227 I PanelView:00
+      1 04.189  2227  2227 I PhoneStatusBar:00
+      3 04.190  2227  2227 I PanelView:00
+      1 04.205  2227  2227 I PhoneStatusBar:00
+      1 04.205  2227  2227 V PhoneStatusBar:00
+      1 04.208  1702  2105 D PowerManagerService:00
+      2 04.209  1702  2105 D PowerManagerService:00
+      1 04.212  2227  2227 V PhoneStatusBar:00
+      1 04.213  2227  2227 I PhoneStatusBar:00
+      1 04.223  2227  2227 V PhoneStatusBar:00
+      1 04.224  2227  2227 I PhoneStatusBar:00
+      1 04.242  1702  3697 W ActivityManager:00
+      1 04.242  2227  2227 V PhoneStatusBar:00
+      1 04.243  2227  2227 I PhoneStatusBar:00
+      1 04.291  1702 17632 I WindowManager:00
+      2 04.307 28601 28601 V AudioManager:00
+      1 04.310  1702 14638 W ActivityManager:00
+      1 04.319  1702  2555 I WindowManager:00
+      1 04.326  2227  2227 V PhoneStatusBar:00
+      1 04.327  2227  2227 I PhoneStatusBar:00
+      1 04.356  1702  2618 W ActivityManager:00
+      1 04.360  1702  1736 I WindowManager:00
+      1 04.364  2227  2227 I PhoneStatusBar:00
+      1 04.364  2227  2227 V PhoneStatusBar:00
+      2 04.399  1702  1736 I WindowManager:00
+      1 04.408  2227  2227 I PhoneStatusBar:00
+      2 04.409  2227  2227 I PhoneStatusBar:00
+      1 04.419  2227  2227 I StackScrollAlgorithm:00
+      1 04.420  2227  2227 I StackScrollAlgorithm:00
+      1 04.439  2227  2227 I PhoneStatusBar:00
+      1 04.439  2227  2227 V PhoneStatusBar:00
+      1 04.450  2227  2227 V PhoneStatusBar:00
+      1 04.451  2227  2227 I PhoneStatusBar:00
+      6 04.459  1702  2633 D ActivityManager:00
+      2 04.460  1702  2633 D ActivityManager:00
+      5 04.476  1702  3694 D ActivityManager:00
+      1 04.484  2227  2227 I PhoneStatusBar:00
+      1 04.484  2227  2227 V PhoneStatusBar:00
+      1 04.504  2227  2227 V PhoneStatusBar:00
+      1 04.505  2227  2227 I PhoneStatusBar:00
+      1 04.540  2227  2227 I PhoneStatusBar:00
+      2 04.541  2227  2227 I PhoneStatusBar:00
+      1 04.583  7111  7111 V AudioManager:00
+      1 04.597  1702  2633 D PowerManagerService:00
+      2 04.598  1702  2633 D PowerManagerService:00
+      1 04.598  1702  2644 I NotificationManager:00
+      1 04.606  1702  1702 I NotificationManager:00
+      2 04.609  1702  1702 I NotificationManager:00
+      1 04.647  2227  2227 I PhoneStatusBar:00
+      1 04.765  2227  2227 I PanelView:00
+      1 04.769  2227  2227 D PhoneStatusBar:00
+      1 04.769  2227  2227 I PhoneStatusBar:00
+      2 04.772  2227  2227 I PhoneStatusBar:00
+      1 04.774  1702  2107 I NotificationManager:00
+      2 04.774  2227  2227 I PhoneStatusBar:00
+      1 04.790  1702 17621 W ActivityManager:00
+      1 04.791  1702  3694 W ActivityManager:00
+      1 04.808  1702 27365 I NotificationManager:00
+      1 04.816  1702  8303 I WindowManager:00
+      2 04.850  2227  2227 I StackScrollAlgorithm:00
+      1 04.858  1702  1736 W ActivityManager:00
+      1 04.932  1702 27357 W ActivityManager:00
+      1 04.938  1702  3693 W ActivityManager:00
+      1 04.943  1702 17622 W ActivityManager:00
+      1 04.947  1702  3137 W ActivityManager:00
+      1 04.949  2227  2227 I StackScrollAlgorithm:00
+      1 04.950  1702 14640 W ActivityManager:00
+      1 04.950  2227  2227 I StackScrollAlgorithm:00
+      1 05.038  1702  8671 W ActivityManager:00
+      1 05.061  1702  3697 W ActivityManager:00
+      1 05.065  1702  2633 W ActivityManager:00
+      1 05.070  1702 14638 W ActivityManager:00
+      1 05.076  1702  2113 W ActivityManager:00
+      1 05.079  1702 27365 W ActivityManager:00
+      2 05.340  1702  1737 D PowerManagerService:00
+      1 05.346  1702  2555 W ActivityManager:00
+      1 05.346  1702  3694 W ActivityManager:00
+      2 05.382  1702  2633 D PowerManagerService:00
+      1 05.443  1702  2556 W ActivityManager:00
+      1 05.460  1702  2105 D PowerManagerService:00
+      1 05.461  1702  2105 D PowerManagerService:00
+      1 05.482  1702 17630 D PowerManagerService:00
+      2 05.483  1702 17630 D PowerManagerService:00
+      1 05.512  1702  2096 I AlarmManager:00
+      2 05.514  1702  2096 D PowerManagerService:00
+      1 05.528  1702  1702 D PowerManagerService:00
+      1 05.529  1702  1702 D PowerManagerService:00
+      1 05.557  2227  2227 I PhoneStatusBar:00
+      1 05.557  2227  2227 V PhoneStatusBar:00
+      1 05.571  2227  2227 V PhoneStatusBar:00
+      1 05.572  2227  2227 I PhoneStatusBar:00
+      2 05.579  1702  8671 D PowerManagerService:00
+      1 05.590  2227  2227 I StackScrollAlgorithm:00
+      1 05.591  2227  2227 I StackScrollAlgorithm:00
+      1 05.594  2227  2318 I PhoneStatusBar:00
+      1 05.595  1702  2618 I NotificationManager:00
+      1 05.595  2227  2318 I PhoneStatusBar:00
+      1 05.616  2227  2227 I PhoneStatusBar:00
+      1 05.616  2227  2227 V PhoneStatusBar:00
+      1 05.642  2227  2227 V PhoneStatusBar:00
+      1 05.643  2227  2227 I PhoneStatusBar:00
+      1 05.686  1702  8290 D PowerManagerService:00
+      2 05.687  1702  8290 D PowerManagerService:00
+      1 05.705  2227  2227 V PhoneStatusBar:00
+      1 05.706  2227  2227 I PhoneStatusBar:00
+      1 05.724  2227  2227 I PhoneStatusBar:00
+      1 05.724  2227  2227 V PhoneStatusBar:00
+      2 05.768  1702 14640 D PowerManagerService:00
+      1 05.848  2227  2227 V PhoneStatusBar:00
+      1 05.849  2227  2227 I PhoneStatusBar:00
+      1 05.871  2227  2227 V PhoneStatusBar:00
+      1 05.872  2227  2227 I PhoneStatusBar:00
+      1 05.956  2227  2227 V PhoneStatusBar:00
+      1 05.957  2227  2227 I PhoneStatusBar:00
+      1 05.971  2227  2227 V PhoneStatusBar:00
+      1 05.972  2227  2227 I PhoneStatusBar:00
+      2 05.979  1702  2105 D PowerManagerService:00
+      1 05.994  1702  8303 D PowerManagerService:00
+      2 05.995  1702  8303 D PowerManagerService:00
+      2 06.000  1702 17632 D PowerManagerService:00
+      1 06.003  1702  2639 D PowerManagerService:00
+      1 06.006  1702 14638 D PowerManagerService:00
+      1 06.008  1702  8290 D PowerManagerService:00
+      1 06.010  1702  1820 D DisplayPowerController:00
+      2 06.010  1702  1820 I DisplayPowerController:00
+      1 06.010  1702  2618 D PowerManagerService:00
+      1 06.043  2227  2227 V PhoneStatusBar:00
+      1 06.044  2227  2227 I PhoneStatusBar:00
+      1 06.045  1702  2250 D PowerManagerService:00
+      1 06.057  2227  2227 I PhoneStatusBar:00
+      1 06.057  2227  2227 V PhoneStatusBar:00
+      1 06.064  2227  2227 V PhoneStatusBar:00
+      1 06.065  2227  2227 I PhoneStatusBar:00
+      1 06.106  2626 22775 I PhoneInterfaceManager:00
+      1 06.106  2626 22775 W PhoneInterfaceManager:00
+      1 06.107  1702  1737 I WindowManager:00
+      1 06.115  2227  2227 I PhoneStatusBar:00
+      1 06.115  2227  2227 V PhoneStatusBar:00
+      1 06.127  1702  8671 I WindowManager:00
+      1 06.131  2227  2227 V PhoneStatusBar:00
+      1 06.132  2227  2227 I PhoneStatusBar:00
+      1 06.154  2626  2809 I PhoneInterfaceManager:00
+      1 06.154  2626  2809 W PhoneInterfaceManager:00
+      1 06.192  3664  3807 D TelephonyManager:00
+      1 06.197  2626 23469 W PhoneInterfaceManager:00
+      1 06.198  2626 23469 I PhoneInterfaceManager:00
+      1 06.200  1702  3137 D PowerManagerService:00
+      1 06.201  1702 17621 D PowerManagerService:00
+      1 06.202  1702 17621 D PowerManagerService:00
+      2 06.211  1702 27353 D PowerManagerService:00
+      1 06.213  2626  2809 W PhoneInterfaceManager:00
+      1 06.214  2626  2809 I PhoneInterfaceManager:00
+      1 06.216  1702 10454 D PowerManagerService:00
+      1 06.217  1702 10454 D PowerManagerService:00
+      2 06.224  1702  3693 D PowerManagerService:00
+      2 06.225  1702  2644 D PowerManagerService:00
+      2 06.235  1702  2633 D PowerManagerService:00
+      1 06.241  2626  2838 I PhoneInterfaceManager:00
+      1 06.241  2626  2838 W PhoneInterfaceManager:00
+      1 06.311  1702  1820 D DisplayPowerController:00
+      2 06.311  1702  1820 I DisplayPowerController:00
+      1 06.612  1702  1820 I DisplayPowerController:00
+      1 06.613  1702  1820 D DisplayPowerController:00
+      1 06.613  1702  1820 I DisplayPowerController:00
+      1 06.670  1702  2105 D PowerManagerService:00
+      1 06.671  1702  2105 D PowerManagerService:00
+      1 06.676  2227  2227 I PanelView:00
+      1 06.688  2227  2227 I StackScrollAlgorithm:00
+      1 06.689  2227  2227 I StackScrollAlgorithm:00
+      1 06.733  1702  1820 I DisplayPowerController:00
+      1 06.733  2227  2227 I PanelView:00
+      1 06.734  1702  1820 D DisplayPowerController:00
+      1 06.734  1702  1820 I DisplayPowerController:00
+      2 06.746  2227  2227 V AudioManager:00
+      2 06.756  2227  2227 I PhoneStatusBar:00
+      1 06.758  2227  2227 I PhoneStatusBar:00
+      1 06.759  2227  2227 I PanelView:00
+      3 06.761  2227  2227 I PanelView:00
+      1 06.761  2227  2227 I PhoneStatusBar:00
+      1 06.762  2227  2227 I PhoneStatusBar:00
+      1 06.762  2227  2318 I PhoneStatusBar:00
+      1 06.763  1702  8303 I NotificationManager:00
+      1 06.764  2227  2318 I PhoneStatusBar:00
+      1 06.772  1702  3137 I ActivityManager:00
+      1 06.773  1702  3137 I ActivityManager:00
+      4 06.774  2227  2227 I StackScrollAlgorithm:00
+      1 06.781  2227  2227 D PhoneStatusBar:00
+      1 06.782  2227  2227 I PanelView:00
+      3 06.783  2227  2227 I PanelView:00
+      2 06.783  2227  2227 I PhoneStatusBar:00
+      1 06.784  1702 17633 W ActivityManager:00
+      1 06.784  2227  2227 I PanelView:00
+      1 06.785  1702  3137 W ActivityManager:00
+      1 06.785  2227  2227 I PhoneStatusBar:00
+      1 06.786  2227  2227 D PhoneStatusBar:00
+      1 06.793  2227  2227 I StackScrollAlgorithm:00
+      3 06.794  2227  2227 I StackScrollAlgorithm:00
+      1 06.807  1702  1820 D DisplayPowerController:00
+      2 06.807  1702  1820 I DisplayPowerController:00
+      1 06.808  2227  2227 D PhoneStatusBar:00
+      3 06.809  1702  3137 D PowerManagerService:00
+      1 06.818  1702  1737 I NotificationManager:00
+      1 06.819  1702  1702 I NotificationManager:00
+      1 06.872  1702  2639 E ActivityManager:00
+      2 06.913  1702  2105 D PowerManagerService:00
+      1 06.916  1702  1820 D DisplayPowerController:00
+      2 06.916  1702  1820 I DisplayPowerController:00
+      1 06.955  1702 10454 W ActivityManager:00
+      5 07.070  1702  8671 D ActivityManager:00
+      3 07.071  1702  8671 D ActivityManager:00
+      5 07.084  1702  3694 D ActivityManager:00
+      1 07.144  2227  2227 I PanelView:00
+      2 07.188  2227  2227 I StackScrollAlgorithm:00
+      1 07.615  1702  2105 D PowerManagerService:00
+      1 07.616  1702  2105 D PowerManagerService:00
+      1 07.635  1702  1820 D DisplayPowerController:00
+      2 07.635  1702  1820 I DisplayPowerController:00
+      1 07.697  2227  2227 V PhoneStatusBar:00
+      1 07.698  2227  2227 I PhoneStatusBar:00
+      1 07.710  2227  2227 V PhoneStatusBar:00
+      1 07.711  2227  2227 I PhoneStatusBar:00
+      1 07.747  2227  2227 V PhoneStatusBar:00
+      1 07.748  2227  2227 I PhoneStatusBar:00
+      1 07.763  2227  2227 V PhoneStatusBar:00
+      1 07.765  2227  2227 I PhoneStatusBar:00
+      1 07.846  1702  8671 D PowerManagerService:00
+      2 07.847  1702  8671 D PowerManagerService:00
+      1 07.853  1702  2395 D PowerManagerService:00
+      1 07.854  1702  2395 D PowerManagerService:00
+      1 07.856  1702  3137 D PowerManagerService:00
+      1 07.859  1702 17621 D PowerManagerService:00
+      1 07.859  2227  2227 V PhoneStatusBar:00
+      1 07.860  2227  2227 I PhoneStatusBar:00
+      1 07.861  1702  1736 D PowerManagerService:00
+      1 07.862  1702 27353 D PowerManagerService:00
+      1 07.878  2227  2227 V PhoneStatusBar:00
+      1 07.879  2227  2227 I PhoneStatusBar:00
+      1 07.902  1702  2555 D PowerManagerService:00
+      1 07.936  1702  1820 D DisplayPowerController:00
+      2 07.936  1702  1820 I DisplayPowerController:00
+      1 07.969  2626  2838 I PhoneInterfaceManager:00
+      1 07.969  2626  2838 W PhoneInterfaceManager:00
+      1 08.022  2626  2839 W PhoneInterfaceManager:00
+      1 08.023  2626  2839 I PhoneInterfaceManager:00
+      1 08.055  1702  3694 D PowerManagerService:00
+      1 08.056  1702  2113 D PowerManagerService:00
+      2 08.056  1702  3694 D PowerManagerService:00
+      2 08.057  1702  2113 D PowerManagerService:00
+      1 08.059  3664  3807 D TelephonyManager:00
+      1 08.060  1702 17633 D PowerManagerService:00
+      1 08.061  2227  2227 I PhoneStatusBar:00
+      1 08.061  2227  2227 V PhoneStatusBar:00
+      1 08.062  1702 10454 D PowerManagerService:00
+      1 08.062  2626  2839 W PhoneInterfaceManager:00
+      1 08.063  2626  2839 I PhoneInterfaceManager:00
+      1 08.064  1702  8290 D PowerManagerService:00
+      1 08.065  1702 27357 D PowerManagerService:00
+      2 08.066  1702  2644 D PowerManagerService:00
+      2 08.076  1702  2633 D PowerManagerService:00
+      1 08.077  2227  2227 I PhoneStatusBar:00
+      1 08.077  2227  2227 V PhoneStatusBar:00
+      1 08.080  2626  3848 I PhoneInterfaceManager:00
+      1 08.080  2626  3848 W PhoneInterfaceManager:00
+      1 08.089  2626  2838 I PhoneInterfaceManager:00
+      1 08.089  2626  2838 W PhoneInterfaceManager:00
+      1 08.102  1702 14638 D PowerManagerService:00
+      1 08.162  2626  2808 I PhoneInterfaceManager:00
+      1 08.162  2626  2808 W PhoneInterfaceManager:00
+      1 08.182  1702  2105 D PowerManagerService:00
+      1 08.183  1702  2105 D PowerManagerService:00
+      1 08.209  2626  2838 I PhoneInterfaceManager:00
+      1 08.209  2626  2838 W PhoneInterfaceManager:00
+      1 08.234  3664  3807 D TelephonyManager:00
+      1 08.237  1702  1820 D DisplayPowerController:00
+      2 08.237  1702  1820 I DisplayPowerController:00
+      1 08.244  2626  2839 W PhoneInterfaceManager:00
+      1 08.245  2626  2839 I PhoneInterfaceManager:00
+      1 08.256  1702  2556 D PowerManagerService:00
+      1 08.259  1702 17633 D PowerManagerService:00
+      1 08.260  1702 17633 D PowerManagerService:00
+      1 08.262  2227  2227 V PhoneStatusBar:00
+      1 08.263  2227  2227 I PhoneStatusBar:00
+      2 08.266  1702  8290 D PowerManagerService:00
+      1 08.270  2626  8682 I PhoneInterfaceManager:00
+      1 08.270  2626  8682 W PhoneInterfaceManager:00
+      2 08.272  1702 27365 D PowerManagerService:00
+      1 08.278  2227  2227 V PhoneStatusBar:00
+      1 08.279  2227  2227 I PhoneStatusBar:00
+      2 08.299  1702  2639 D PowerManagerService:00
+      2 08.300  1702 17632 D PowerManagerService:00
+      2 08.313  1702  1736 D PowerManagerService:00
+      1 08.324  2626 23469 I PhoneInterfaceManager:00
+      1 08.324  2626 23469 W PhoneInterfaceManager:00
+      1 08.538  1702  1820 D DisplayPowerController:00
+      2 08.538  1702  1820 I DisplayPowerController:00
+      1 08.840  1702  1820 D DisplayPowerController:00
+      2 08.840  1702  1820 I DisplayPowerController:00
+      1 09.141  1702  1820 D DisplayPowerController:00
+      2 09.141  1702  1820 I DisplayPowerController:00
+      1 09.505  1702  2105 D PowerManagerService:00
+      1 09.506  1702  2105 D PowerManagerService:00
+      1 09.564  2227  2227 I PhoneStatusBar:00
+      1 09.564  2227  2227 V PhoneStatusBar:00
+      1 09.582  2227  2227 V PhoneStatusBar:00
+      1 09.583  2227  2227 I PhoneStatusBar:00
+      1 09.818  2227  2227 I PhoneStatusBar:00
+      1 09.818  2227  2227 V PhoneStatusBar:00
+      1 09.920  1702  1820 D DisplayPowerController:00
+      2 09.920  1702  1820 I DisplayPowerController:00
+      1 09.955  1702  2113 W ActivityManager:00
+      1 09.960  1702 27357 W ActivityManager:00
+      1 10.606  1702  2105 D PowerManagerService:00
+      1 10.607  1702  2105 D PowerManagerService:00
+      1 10.760  2227  2227 V PhoneStatusBar:00
+      1 10.761  2227  2227 I PhoneStatusBar:00
+      1 10.786  2227  2227 V PhoneStatusBar:00
+      1 10.787  2227  2227 I PhoneStatusBar:00
+      1 10.853  2227  2227 I PhoneStatusBar:00
+      1 10.853  2227  2227 V PhoneStatusBar:00
+      1 10.873  2227  2227 V PhoneStatusBar:00
+      1 10.874  2227  2227 I PhoneStatusBar:00
+      1 11.325  1702  1820 D DisplayPowerController:00
+      2 11.325  1702  1820 I DisplayPowerController:00
+      1 12.930  1702  1820 I DisplayPowerController:00
+      1 12.931  1702  1820 D DisplayPowerController:00
+      1 12.931  1702  1820 I DisplayPowerController:00
+      1 14.950  1702  2105 D PowerManagerService:00
+      1 14.951  1702  2105 D PowerManagerService:00
+      1 15.028  2227  2227 I PhoneStatusBar:00
+      1 15.028  2227  2227 V PhoneStatusBar:00
+      1 15.072  1702  2395 I WindowManager:00
+      1 15.076  2227  2227 I PhoneStatusBar:00
+      1 15.076  2227  2227 V PhoneStatusBar:00
+      1 15.087  1702  2555 I WindowManager:00
+      1 15.091  2227  2227 I PhoneStatusBar:00
+      1 15.091  2227  2227 V PhoneStatusBar:00
+      1 15.843  1702  1820 I DisplayPowerController:00
+      1 15.844  1702  1820 D DisplayPowerController:00
+      1 15.844  1702  1820 I DisplayPowerController:00
+      1 15.941  1702  1820 I DisplayPowerController:00
+      1 15.942  1702  1820 D DisplayPowerController:00
+      1 15.942  1702  1820 I DisplayPowerController:00
+      1 16.223  1702  2105 D PowerManagerService:00
+      1 16.224  1702  2105 D PowerManagerService:00
+      1 16.320  2227  2227 V PhoneStatusBar:00
+      1 16.321  2227  2227 I PhoneStatusBar:00
+      1 16.332  2227  2227 I PhoneStatusBar:00
+      1 16.332  2227  2227 V PhoneStatusBar:00
+      1 16.368  2227  2227 V PhoneStatusBar:00
+      1 16.369  2227  2227 I PhoneStatusBar:00
+      1 16.386  2227  2227 I PhoneStatusBar:00
+      1 16.386  2227  2227 V PhoneStatusBar:00
+      1 16.451  1702  2395 W ActivityManager:00
+      1 16.568  2227  2227 V PhoneStatusBar:00
+      1 16.569  2227  2227 I PhoneStatusBar:00
+      1 16.585  2227  2227 I PhoneStatusBar:00
+      1 16.585  2227  2227 V PhoneStatusBar:00
+      1 16.769  1702  2105 D PowerManagerService:00
+      1 16.770  1702  2105 D PowerManagerService:00
+      1 16.800  2227  2227 I PhoneStatusBar:00
+      1 16.800  2227  2227 V PhoneStatusBar:00
+      1 16.819  2227  2227 V PhoneStatusBar:00
+      1 16.820  2227  2227 I PhoneStatusBar:00
+      1 17.018  2227  2227 I PhoneStatusBar:00
+      1 17.018  2227  2227 V PhoneStatusBar:00
+      1 17.036  2227  2227 I PhoneStatusBar:00
+      1 17.036  2227  2227 V PhoneStatusBar:00
+      1 17.957  1702  2556 W ActivityManager:00
+      1 18.834  1702 27357 W ActivityManager:00
+      1 18.856 28601 28601 I AudioManager:00
+      1 18.856 28601 28601 V AudioManager:00
+      1 18.859 28601 12278 I MediaPlayer:00
+      1 18.866 28601 12278 I MediaPlayer:00
+      1 18.961  1702  2105 D PowerManagerService:00
+      1 18.962  1702  2105 D PowerManagerService:00
+      1 19.038  2227  2227 V PhoneStatusBar:00
+      1 19.039  2227  2227 I PhoneStatusBar:00
+      1 19.061  2227  2227 V PhoneStatusBar:00
+      1 19.062  2227  2227 I PhoneStatusBar:00
+      1 19.248  1702  1820 D DisplayPowerController:00
+      2 19.248  1702  1820 I DisplayPowerController:00
+      1 19.311  2227  2227 I PhoneStatusBar:00
+      1 19.311  2227  2227 V PhoneStatusBar:00
+      1 19.550  1702  1820 D DisplayPowerController:00
+      2 19.550  1702  1820 I DisplayPowerController:00
+      1 19.830  1702  2105 D PowerManagerService:00
+      1 19.831  1702  2105 D PowerManagerService:00
+      1 19.879  1702  2555 W ActivityManager:00
+      1 19.882  1702 17621 W ActivityManager:00
+      1 19.898  2227  2227 I PhoneStatusBar:00
+      1 19.898  2227  2227 V PhoneStatusBar:00
+      2 19.986  1702  3693 I DisplayManagerService:00
+      1 19.992  1702  2644 D ActivityManager:00
+      1 19.992  1702  2644 I ActivityManager:00
+      2 19.993  1702  2644 I ActivityManager:00
+      1 19.993  1702  2644 W ActivityManager:00
+      1 20.000  1702 14638 W ActivityManager:00
+      1 20.108 23650 23685 V AudioManager:00
+      1 20.118 23650 23685 V AudioManager:00
+      1 20.275  2227  2227 I PhoneStatusBar:00
+      1 20.275  2227  2227 V PhoneStatusBar:00
+      1 20.291  2227  2227 V PhoneStatusBar:00
+      1 20.292  2227  2227 I PhoneStatusBar:00
+      1 20.357  1702  1820 D DisplayPowerController:00
+      2 20.357  1702  1820 I DisplayPowerController:00
+      1 20.530  2227  2227 I PhoneStatusBar:00
+      1 20.530  2227  2227 V PhoneStatusBar:00
+      1 20.661  1702  1820 D DisplayPowerController:00
+      2 20.661  1702  1820 I DisplayPowerController:00
+      1 20.666  1702  2105 D PowerManagerService:00
+      1 20.667  1702  2105 D PowerManagerService:00
+      1 20.765  2227  2227 V PhoneStatusBar:00
+      1 20.766  2227  2227 I PhoneStatusBar:00
+      1 20.963  1702  1820 D DisplayPowerController:00
+      2 20.963  1702  1820 I DisplayPowerController:00
+      1 20.995  1702  1765 I ActivityManager:00
+      1 21.065  1702  1765 I ActivityManager:00
+      1 21.126  1702  2250 D ActivityManager:00
+      1 21.182  1702  2105 D PowerManagerService:00
+      1 21.183  1702  2105 D PowerManagerService:00
+      1 21.207  1702  8289 W ActivityManager:00
+      1 21.230  1702  2107 W ActivityManager:00
+      1 21.261  2227  2227 V PhoneStatusBar:00
+      1 21.262  2227  2227 I PhoneStatusBar:00
+      1 21.264  1702  1820 D DisplayPowerController:00
+      2 21.264  1702  1820 I DisplayPowerController:00
+      1 21.278  2227  2227 I PhoneStatusBar:00
+      1 21.278  2227  2227 V PhoneStatusBar:00
+      1 21.323  1702 14638 W ActivityManager:00
+      1 21.428  2227  2227 I PhoneStatusBar:00
+      1 21.428  2227  2227 V PhoneStatusBar:00
+      1 21.466  2227  2227 V PhoneStatusBar:00
+      1 21.467  2227  2227 I PhoneStatusBar:00
+      1 21.566  1702  1820 D DisplayPowerController:00
+      2 21.566  1702  1820 I DisplayPowerController:00
+      1 21.868  1702  8671 W ActivityManager:00
+      1 21.885  1702  2105 D PowerManagerService:00
+      1 21.886  1702  2105 D PowerManagerService:00
+      1 21.967  2227  2227 I PhoneStatusBar:00
+      1 21.967  2227  2227 V PhoneStatusBar:00
+      1 22.067  1702  8303 W ActivityManager:00
+      1 22.073  1702  2395 W ActivityManager:00
+      1 22.122  1702 10454 W ActivityManager:00
+      1 22.136  1702  3693 W ActivityManager:00
+      1 22.149  1702  1736 W ActivityManager:00
+      1 22.152  1702 27353 W ActivityManager:00
+      1 22.154  1702  2113 W ActivityManager:00
+      1 22.176  1702  3693 W ActivityManager:00
+      1 22.259  1702  8289 W ActivityManager:00
+      1 22.425  1702  3137 W ActivityManager:00
+      1 22.436  1702  2105 D PowerManagerService:00
+      1 22.437  1702  2105 D PowerManagerService:00
+      2 22.502 28601 28601 V AudioManager:00
+      1 22.516  1702 27357 I WindowManager:00
+      1 22.517  1702 17630 W ActivityManager:00
+      1 22.521  2227  2227 V PhoneStatusBar:00
+      1 22.522  2227  2227 I PhoneStatusBar:00
+      1 22.534  1702 14638 I WindowManager:00
+      1 22.539  2227  2227 I PhoneStatusBar:00
+      1 22.539  2227  2227 V PhoneStatusBar:00
+      1 22.633  2227  2227 I PhoneStatusBar:00
+      1 22.633  2227  2227 V PhoneStatusBar:00
+      1 22.649  2227  2227 I PhoneStatusBar:00
+      1 22.649  2227  2227 V PhoneStatusBar:00
+      1 22.675  2227  2227 I PhoneStatusBar:00
+      1 22.675  2227  2227 V PhoneStatusBar:00
+      1 22.687  2227  2227 V PhoneStatusBar:00
+      1 22.688  2227  2227 I PhoneStatusBar:00
+      1 23.375  1702  3694 W ActivityManager:00
+      1 23.457  1702  1820 I DisplayPowerController:00
+      1 23.458  1702  1820 D DisplayPowerController:00
+      1 23.458  1702  1820 I DisplayPowerController:00
+      1 24.640  1702 27357 W ActivityManager:00
+      1 24.642  1702 27353 W ActivityManager:00
+      1 24.872  1702  1820 I DisplayPowerController:00
+      1 24.873  1702  1820 D DisplayPowerController:00
+      1 24.873  1702  1820 I DisplayPowerController:00
+      1 24.967  1702 10454 W ActivityManager:00
+      1 24.971  1702 27365 W ActivityManager:00
+      1 24.976  1702 17632 W ActivityManager:00
+      1 24.979  1702 14640 W ActivityManager:00
+      1 25.011  1702  2556 W ActivityManager:00
+      1 25.015  1702 17622 W ActivityManager:00
+      1 25.020  1702 14640 W ActivityManager:00
+      1 25.046  1702 17621 W ActivityManager:00
+      1 25.046  1702  2250 W ActivityManager:00
+      1 25.163  1702  2105 D PowerManagerService:00
+      1 25.164  1702  2105 D PowerManagerService:00
+      1 25.167  2227  2227 I PhoneStatusBar:00
+      2 25.170  1702 14638 D WindowManager:00
+      2 25.171  1702  2105 D PowerManagerService:00
+      1 25.196  1702  3693 I WindowManager:00
+      1 25.201  2227  2227 I PhoneStatusBar:00
+      1 25.201  2227  2227 V PhoneStatusBar:00
+      1 25.262  2227  2227 I PhoneStatusBar:00
+      2 25.265  1702  2107 D WindowManager:00
+      1 25.266  2227  2318 V AudioManager:00
+      1 25.307  2227  2227 I PhoneStatusBar:00
+      1 25.307  2227  2227 V PhoneStatusBar:00
+      1 25.330  2227  2227 V PhoneStatusBar:00
+      1 25.331  2227  2227 I PhoneStatusBar:00
+      1 25.336  2227  2227 I PhoneStatusBar:00
+      1 25.336  2227  2227 V PhoneStatusBar:00
+      1 25.443  2227  2227 I PhoneStatusBar:00
+      1 25.443  2227  2227 V PhoneStatusBar:00
+      1 25.448  1702  1815 I WindowManager:00
+      1 25.479  2227  2227 I PhoneStatusBar:00
+      2 25.482  1702 27353 D WindowManager:00
+      1 25.531  2227  2227 I PhoneStatusBar:00
+      1 25.531  2227  2227 V PhoneStatusBar:00
+      1 25.547  2227  2227 I PhoneStatusBar:00
+      2 25.549  1702 27357 D WindowManager:00
+      1 25.550  2227  2318 V AudioManager:00
+      1 25.816 23650 23689 V AudioManager:00
+      1 25.821 23650 23689 V AudioManager:00
+      1 26.148  1702  2105 D PowerManagerService:00
+      1 26.149  1702  2105 D PowerManagerService:00
+      1 26.149  2227  2227 I PhoneStatusBar:00
+      1 26.153  1702  2105 D PowerManagerService:00
+      2 26.153  1702 27353 D WindowManager:00
+      1 26.154  1702  2105 D PowerManagerService:00
+      1 26.248  2227  2227 I PhoneStatusBar:00
+      2 26.250  1702  2639 D PowerManagerService:00
+      2 26.252  1702  2618 D WindowManager:00
+      1 26.253  2227  2318 V AudioManager:00
+      1 26.272  1702  2105 D PowerManagerService:00
+      1 26.273  1702  2105 D PowerManagerService:00
+      1 26.277  2227  2227 I PanelView:00
+      1 26.277  2227  2227 I PhoneStatusBar:00
+      3 26.278  2227  2227 I PanelView:00
+      1 26.295  2227  2227 V PhoneStatusBar:00
+      1 26.296  2227  2227 I PhoneStatusBar:00
+      3 26.299  1702  2105 D PowerManagerService:00
+      1 26.304  2227  2227 I PhoneStatusBar:00
+      1 26.304  2227  2227 V PhoneStatusBar:00
+      1 26.317  2227  2227 I PhoneStatusBar:00
+      1 26.317  2227  2227 V PhoneStatusBar:00
+      1 26.328  2227  2227 I PhoneStatusBar:00
+      1 26.328  2227  2227 V PhoneStatusBar:00
+      1 26.375  1702  1820 D DisplayPowerController:00
+      2 26.375  1702  1820 I DisplayPowerController:00
+      1 26.376  1702 14640 I WindowManager:00
+      2 26.462  1702  8303 I WindowManager:00
+      1 26.466  2227  2227 I PhoneStatusBar:00
+      2 26.467  2227  2227 I PhoneStatusBar:00
+      2 26.475  2227  2227 I StackScrollAlgorithm:00
+      7 26.530  1702  2639 D ActivityManager:00
+      1 26.531  1702  2639 D ActivityManager:00
+      5 26.542  1702 17630 D ActivityManager:00
+      3 26.577  2227  2227 I PhoneStatusBar:00
+      1 26.618  1702 17630 D PowerManagerService:00
+      2 26.619  1702 17630 D PowerManagerService:00
+      1 26.698  2626  3848 I PhoneInterfaceManager:00
+      1 26.698  2626  3848 W PhoneInterfaceManager:00
+      1 26.746  1702 17632 W ActivityManager:00
+      1 26.888  1702  1737 W ActivityManager:00
+      1 26.889  1702  2644 D ActivityManager:00
+      1 26.900  1702 14638 W ActivityManager:00
+      1 26.920  2626  2839 I PhoneInterfaceManager:00
+      1 26.920  2626  2839 W PhoneInterfaceManager:00
+      1 26.946  1702  2558 I WindowManager:00
+      1 26.979  1702  2250 W ActivityManager:00
+      1 27.005  1702  2556 W ActivityManager:00
+      1 27.025  1702  1737 W ActivityManager:00
+      1 27.039  1702  2395 W ActivityManager:00
+      1 27.045  1702  2096 I AlarmManager:00
+      2 27.047  1702  2096 D PowerManagerService:00
+      1 27.059  1702 17621 I ActivityManager:00
+      2 27.075  1702  1702 D PowerManagerService:00
+      2 27.161  1702 17632 I DisplayManagerService:00
+      1 27.162  1702  3693 D ActivityManager:00
+      2 27.162  1702  3693 I ActivityManager:00
+      2 27.169  1702  2618 I DisplayManagerService:00
+      1 27.170  1702  1736 D ActivityManager:00
+      1 27.170  1702  1736 I ActivityManager:00
+      1 27.171  1702  1736 I ActivityManager:00
+      1 27.175  2626  2809 I PhoneInterfaceManager:00
+      1 27.175  2626  2809 W PhoneInterfaceManager:00
+      2 27.179  1702  3137 D PowerManagerService:00
+      2 27.181  1702  3694 I DisplayManagerService:00
+      1 27.182  1702  1737 D ActivityManager:00
+      1 27.182  1702  1737 I ActivityManager:00
+      1 27.183  1702  1737 I ActivityManager:00
+      2 27.188  1702 17630 D PowerManagerService:00
+      1 27.189  1702  3693 D PowerManagerService:00
+      1 27.190  1702  3693 D PowerManagerService:00
+      2 27.198  1702 17632 D PowerManagerService:00
+      1 27.236  2626  2838 W PhoneInterfaceManager:00
+      1 27.237  2626  2838 I PhoneInterfaceManager:00
+      1 27.269  1702  1737 W ActivityManager:00
+      1 27.270  1702  2558 W ActivityManager:00
+      1 27.283  2626  8682 W PhoneInterfaceManager:00
+      1 27.284  2626  8682 I PhoneInterfaceManager:00
+      1 27.305  2626  2808 I PhoneInterfaceManager:00
+      1 27.305  2626  2808 W PhoneInterfaceManager:00
+      1 27.628  1702  2107 W ActivityManager:00
+      2 27.828  1702  2107 I DisplayManagerService:00
+      1 27.829  1702 27365 D ActivityManager:00
+      2 27.830  1702 27365 I ActivityManager:00
+      1 28.099  2626  8682 W PhoneInterfaceManager:00
+      1 28.100  2626  8682 I PhoneInterfaceManager:00
+      1 28.488  1702  1820 I DisplayPowerController:00
+      1 28.489  1702  1820 D DisplayPowerController:00
+      1 28.489  1702  1820 I DisplayPowerController:00
+      1 28.790  1702  1820 D DisplayPowerController:00
+      2 28.790  1702  1820 I DisplayPowerController:00
+      1 29.091  1702  1820 D DisplayPowerController:00
+      2 29.091  1702  1820 I DisplayPowerController:00
+      1 29.173  2626  2643 I PhoneInterfaceManager:00
+      1 29.173  2626  2643 W PhoneInterfaceManager:00
+      1 29.392  1702  1820 D DisplayPowerController:00
+      2 29.392  1702  1820 I DisplayPowerController:00
+      1 29.484  1702  1820 D DisplayPowerController:00
+      2 29.484  1702  1820 I DisplayPowerController:00
+      1 29.694  1702  1820 D DisplayPowerController:00
+      2 29.694  1702  1820 I DisplayPowerController:00
+      1 29.995  1702  1820 D DisplayPowerController:00
+      2 29.995  1702  1820 I DisplayPowerController:00
+      1 30.026  1702  3694 W ActivityManager:00
+      1 30.297  1702  1820 D DisplayPowerController:00
+      2 30.297  1702  1820 I DisplayPowerController:00
+      1 30.599  1702  1820 D DisplayPowerController:00
+      2 30.599  1702  1820 I DisplayPowerController:00
+      1 30.902  1702  1820 I DisplayPowerController:00
+      1 30.903  1702  1820 D DisplayPowerController:00
+      1 30.903  1702  1820 I DisplayPowerController:00
+      1 31.202  1702  1820 D DisplayPowerController:00
+      2 31.202  1702  1820 I DisplayPowerController:00
+      1 32.289  1702  3693 W ActivityManager:00
+      1 32.794  1702  1820 I DisplayPowerController:00
+      1 32.795  1702  1820 D DisplayPowerController:00
+      1 32.795  1702  1820 I DisplayPowerController:00
+      2 33.096  1702  1820 I DisplayPowerController:00
+      1 33.097  1702  1820 D DisplayPowerController:00
+      1 33.396  1702  1702 I NotificationManager:00
+      1 33.396  1702  2558 I NotificationManager:00
+      1 33.398  1702  1702 I NotificationManager:00
+      1 33.398  1702  3137 I NotificationManager:00
+      1 33.419  1702  8290 I NotificationManager:00
+      1 33.424  1702  1702 I NotificationManager:00
+      1 33.426 28601 29239 V AudioManager:00
+      2 33.427  1702  1702 I NotificationManager:00
+      1 33.438  2227  2227 I PhoneStatusBar:00
+      1 33.524  2227  2227 I PanelView:00
+      1 33.527  2227  2227 D PhoneStatusBar:00
+      1 33.527  2227  2227 I PhoneStatusBar:00
+      2 33.529  2227  2227 I PhoneStatusBar:00
+      1 33.530  1702  2113 I NotificationManager:00
+      2 33.530  2227  2227 I PhoneStatusBar:00
+      1 33.533  1702 17621 I NotificationManager:00
+      2 33.554  2227  2227 I StackScrollAlgorithm:00
+      2 33.652  2227  2227 I StackScrollAlgorithm:00
+      1 33.691  1702  1736 W ActivityManager:00
+      1 33.691  1702 27357 W ActivityManager:00
+      2 34.294  2227  2227 I StackScrollAlgorithm:00
+      1 34.297  2227  2318 I PhoneStatusBar:00
+      1 34.298  1702 14640 I NotificationManager:00
+      1 34.299  2227  2318 I PhoneStatusBar:00
+      1 34.490  1702  3697 W ActivityManager:00
+      1 34.987  1702 17630 W ActivityManager:00
+      1 35.413  1702  1820 I DisplayPowerController:00
+      1 35.414  1702  1820 D DisplayPowerController:00
+      1 35.414  1702  1820 I DisplayPowerController:00
+      1 36.105  1702  1820 D DisplayPowerController:00
+      2 36.105  1702  1820 I DisplayPowerController:00
+      1 36.708  1702  1820 D DisplayPowerController:00
+      2 36.708  1702  1820 I DisplayPowerController:00
+      1 36.842  1702  2105 D PowerManagerService:00
+      1 36.843  1702  2105 D PowerManagerService:00
+      2 36.912  3714  3714 V AudioManager:00
+      1 36.921  1702  2113 I ActivityManager:00
+      1 36.922  1702  2113 I ActivityManager:00
+      2 36.937  1702  2113 D PowerManagerService:00
+      1 36.938  1702  2113 D PowerManagerService:00
+      1 37.010  1702  1820 I DisplayPowerController:00
+      1 37.011  1702  1820 D DisplayPowerController:00
+      1 37.011  1702  1820 I DisplayPowerController:00
+      2 37.011  1702  8303 I WindowManager:00
+      2 37.077  1702 14638 I WindowManager:00
+      1 37.078  2227  2227 I PhoneStatusBar:00
+      2 37.079  2227  2227 I PhoneStatusBar:00
+      7 37.138  1702 10454 D ActivityManager:00
+      1 37.139  1702 10454 D ActivityManager:00
+      5 37.153  1702  2639 D ActivityManager:00
+      3 37.178  2227  2227 I PhoneStatusBar:00
+      1 37.190  1702  8289 D PowerManagerService:00
+      2 37.191  1702  8289 D PowerManagerService:00
+      1 37.312  1702  1820 D DisplayPowerController:00
+      2 37.312  1702  1820 I DisplayPowerController:00
+      1 38.301  1702 27353 W ActivityManager:00
+      1 38.811  1702  2395 D WindowManager:00
+      1 38.819  1702  8671 D PowerManagerService:00
+      1 38.820  1702  8671 D PowerManagerService:00
+      1 38.839  1702  2113 V WindowManager:00
+      1 38.859  2227  2227 D TextView:00
+      1 38.861  2227  2227 D TextView:00
+      1 38.869  2227  2227 D TextView:00
+      1 38.871  2227  2227 D TextView:00
+      1 38.875  2227  2227 D TextView:00
+      1 38.877  2227  2227 D TextView:00
+      1 38.881  2227  2227 D TextView:00
+      1 38.882  2227  2227 D TextView:00
+      1 38.887  2227  2227 D TextView:00
+      1 38.888  2227  2227 D TextView:00
+      1 38.905  1702 10454 D PowerManagerService:00
+      1 38.907  1702 10454 D PowerManagerService:00
+      1 38.915  1702  3693 V WindowManager:00
+      2 38.928  2227  2227 I StackScrollAlgorithm:00
+      1 38.935  1702  3697 W ActivityManager:00
+      1 38.936  1702 14638 D PowerManagerService:00
+      1 38.938  1702 14638 D PowerManagerService:00
+      1 38.954  2227  2227 I PhoneStatusBar:00
+      2 38.955  2227  2227 I PhoneStatusBar:00
+      1 38.994  1702 27365 I WindowManager:00
+      1 39.006  1702  2639 I WindowManager:00
+      1 39.010  1702  2639 D PowerManagerService:00
+      2 39.011  1702  2639 D PowerManagerService:00
+      1 39.069  1702  1815 I WindowManager:00
+      1 39.070  1702  1815 D WindowManager:00
+      1 39.070  1702  1815 I WindowManager:00
+      1 39.079  1702  1815 D WindowManager:00
+      2 39.080  1702  1815 D PowerManagerService:00
+      1 39.095  1702  8671 I AlarmManager:00
+      2 39.207  1702  1815 I WindowManager:00
+      1 39.215  1702  2105 D PowerManagerService:00
+      1 39.216  1702  2105 D PowerManagerService:00
+      2 39.228  2227  2227 I PhoneStatusBar:00
+      4 39.249  2227  2227 I StackScrollAlgorithm:00
+      1 39.444  1702  2618 D WindowManager:00
+      1 39.547  2227  2227 I PanelView:00
+      1 39.552  2227  2227 I PhoneStatusBar:00
+      1 39.553  2227  2227 I PhoneStatusBar:00
+      1 39.587  2227  2227 I StackScrollAlgorithm:00
+      3 39.589  2227  2227 I StackScrollAlgorithm:00
+      1 39.597  2227  2227 D PhoneStatusBar:00
+      1 39.597  2227  2227 I PanelView:00
+      4 39.598  2227  2227 I PanelView:00
+      1 39.599  1702  2113 I NotificationManager:00
+      1 39.599  2227  2318 I PhoneStatusBar:00
+      1 39.600  2227  2227 I PhoneStatusBar:00
+      1 39.601  2227  2227 D PhoneStatusBar:00
+      1 39.603  2227  2318 I PhoneStatusBar:00
+      2 39.709  2227  2227 I StackScrollAlgorithm:00
+      1 39.811  1702 14640 W ActivityManager:00
+      1 40.142  1702  2618 D PowerManagerService:00
+      1 40.143  1702  2618 D PowerManagerService:00
+      1 40.146  1702  2555 D PowerManagerService:00
+      1 40.147  1702  2633 D PowerManagerService:00
+      1 40.148  1702  2395 D PowerManagerService:00
+      1 40.150  1702  2556 D PowerManagerService:00
+      1 40.190  1702  2250 D PowerManagerService:00
+      1 40.241  2626  8682 I PhoneInterfaceManager:00
+      1 40.241  2626  8682 W PhoneInterfaceManager:00
+      1 40.280  2626  2642 I PhoneInterfaceManager:00
+      1 40.280  2626  2642 W PhoneInterfaceManager:00
+      1 40.305  3664  3807 D TelephonyManager:00
+      1 40.307  2626 23469 W PhoneInterfaceManager:00
+      1 40.308  2626 23469 I PhoneInterfaceManager:00
+      1 40.309  1702  2395 D PowerManagerService:00
+      1 40.319  1702 17630 D PowerManagerService:00
+      1 40.322  2626  2809 I PhoneInterfaceManager:00
+      1 40.322  2626  2809 W PhoneInterfaceManager:00
+      1 40.324  1702  2113 D PowerManagerService:00
+      1 40.332  1702 27357 D PowerManagerService:00
+      1 40.334  1702 27357 D PowerManagerService:00
+      1 40.343  1702  3697 D PowerManagerService:00
+      2 40.345  1702 14638 D PowerManagerService:00
+      1 40.346  2626  2642 I PhoneInterfaceManager:00
+      1 40.346  2626  2642 W PhoneInterfaceManager:00
+      1 41.480  1702 27357 D PowerManagerService:00
+      2 41.481  1702 27357 D PowerManagerService:00
+      1 41.614  1702  1820 D DisplayPowerController:00
+      2 41.614  1702  1820 I DisplayPowerController:00
+      1 42.379  1702  2105 D PowerManagerService:00
+      1 42.380  1702  2105 D PowerManagerService:00
+      1 42.580  1702  1815 I WindowManager:00
+      1 42.729  1702  1820 D DisplayPowerController:00
+      2 42.729  1702  1820 I DisplayPowerController:00
+      1 42.814  1702  8303 W ActivityManager:00
+      2 43.030  1702  1820 I DisplayPowerController:00
+      1 43.031  1702  1820 D DisplayPowerController:00
+      1 43.641  1702  1736 W ActivityManager:00
+      1 43.694  1702  2105 D PowerManagerService:00
+      1 43.695  1702  2105 D PowerManagerService:00
+      1 44.295  1702  2105 D PowerManagerService:00
+      1 44.296  1702  2105 D PowerManagerService:00
+      1 44.810  1702  2105 D PowerManagerService:00
+      1 44.811  1702  2105 D PowerManagerService:00
+      1 45.150  1702 17633 W ActivityManager:00
+      1 45.307  1702  2105 D PowerManagerService:00
+      1 45.308  1702  2105 D PowerManagerService:00
+      1 45.310  2227  2227 I PhoneStatusBar:00
+      1 45.316  1702 14640 D WindowManager:00
+      1 45.317  1702 14640 D WindowManager:00
+      1 45.317  1702  2105 D PowerManagerService:00
+      1 45.318  1702  2105 D PowerManagerService:00
+      1 45.342  1702  1820 D DisplayPowerController:00
+      2 45.342  1702  1820 I DisplayPowerController:00
+      1 45.358  2227  2227 I PhoneStatusBar:00
+      1 45.361  1702  3137 D WindowManager:00
+      1 45.362  1702  3137 D WindowManager:00
+      1 45.362  2227  2318 V AudioManager:00
+      3 45.382  1702  3697 D PowerManagerService:00
+      1 45.402  1702  3694 V WindowManager:00
+      1 45.405  2227  2227 I PhoneStatusBar:00
+      2 45.408  2227  2227 I PhoneStatusBar:00
+      2 45.466  1702 17632 W ActivityManager:00
+      1 45.512  1702  2639 V WindowManager:00
+      1 45.598  1702  2556 D PowerManagerService:00
+      2 45.599  1702  2556 D PowerManagerService:00
+      1 45.626  2227  2227 I PhoneStatusBar:00
+      2 45.627  2227  2227 I PhoneStatusBar:00
+      1 45.944  1702  1820 D DisplayPowerController:00
+      2 45.944  1702  1820 I DisplayPowerController:00
+      1 46.143  1702  2105 D PowerManagerService:00
+      1 46.144  1702  2105 D PowerManagerService:00
+      1 46.145  2227  2227 I PhoneStatusBar:00
+      1 46.146  2227  2227 I PanelView:00
+      1 46.146  2227  2227 I PhoneStatusBar:00
+      1 46.148  2227  2227 I PanelView:00
+      1 46.153  1702  2113 V AudioManager:00
+      1 46.155  2227  2227 D PhoneStatusBar:00
+      1 46.155  2227  2227 I PhoneStatusBar:00
+      2 46.158  1702  2113 I NotificationManager:00
+      1 46.159  1702  3137 V AudioManager:00
+      2 46.161  1702  3137 I NotificationManager:00
+      4 46.187  2227  2227 I StackScrollAlgorithm:00
+      1 46.232  1702  8289 W ActivityManager:00
+      2 46.240  2227  2227 I PhoneStatusBar:00
+      1 46.241  2227  2227 I PhoneStatusBar:00
+      1 46.242  2227  2227 I PanelView:00
+      1 46.246  1702  1820 D DisplayPowerController:00
+      2 46.246  1702  1820 I DisplayPowerController:00
+      1 46.250  2227  2227 I PanelView:00
+      1 46.250  2227  2227 I PhoneStatusBar:00
+      1 46.277  1702 14640 I WindowManager:00
+      1 46.285  2227  2227 I PhoneStatusBar:00
+      3 46.290  2227  2227 I StackScrollAlgorithm:00
+      1 46.291  2227  2227 I StackScrollAlgorithm:00
+      1 46.304  2227  2227 I PhoneStatusBar:00
+      4 46.306  2227  2227 I StackScrollAlgorithm:00
+      1 46.317  2227  2227 I PhoneStatusBar:00
+      4 46.318  2227  2227 I StackScrollAlgorithm:00
+      1 46.332  1702  2105 D PowerManagerService:00
+      1 46.333  1702  2105 D PowerManagerService:00
+      1 46.338  2227  2227 I PhoneStatusBar:00
+      4 46.339  2227  2227 I StackScrollAlgorithm:00
+      1 46.350  2227  2227 I PhoneStatusBar:00
+      4 46.352  2227  2227 I StackScrollAlgorithm:00
+      1 46.368  2227  2227 I PhoneStatusBar:00
+      2 46.370  2227  2227 I StackScrollAlgorithm:00
+      1 46.388  2227  2227 I PhoneStatusBar:00
+      2 46.389  2227  2227 I StackScrollAlgorithm:00
+      1 46.394  2227  2227 I PhoneStatusBar:00
+      1 46.397  2227  2227 I PhoneStatusBar:00
+      2 46.398 19609 19609 V AudioManager:00
+      4 46.398  2227  2227 I PanelView:00
+      2 46.403  2227  2227 I StackScrollAlgorithm:00
+      2 46.417  2227  2227 I StackScrollAlgorithm:00
+      2 46.435  2227  2227 I StackScrollAlgorithm:00
+      2 46.451  2227  2227 I StackScrollAlgorithm:00
+      2 46.468  2227  2227 I StackScrollAlgorithm:00
+      2 46.486  2227  2227 I StackScrollAlgorithm:00
+      2 46.502  2227  2227 I StackScrollAlgorithm:00
+      2 46.518  2227  2227 I StackScrollAlgorithm:00
+      2 46.535  2227  2227 I StackScrollAlgorithm:00
+      1 46.546  1702  2113 I WindowManager:00
+      2 46.551  2227  2227 I StackScrollAlgorithm:00
+      2 46.568  2227  2227 I StackScrollAlgorithm:00
+      2 46.586  2227  2227 I StackScrollAlgorithm:00
+      1 46.601  2227  2227 I StackScrollAlgorithm:00
+      1 46.602  2227  2227 I StackScrollAlgorithm:00
+      2 46.619  2227  2227 I StackScrollAlgorithm:00
+      2 46.635  2227  2227 I StackScrollAlgorithm:00
+      1 46.652  2227  2227 I PanelView:00
+      2 46.653  2227  2227 I StackScrollAlgorithm:00
+      1 46.654  1702 10454 W ActivityManager:00
+      1 46.671  1702 17633 I NotificationManager:00
+      1 46.671  2227  2318 I PhoneStatusBar:00
+      1 46.672  2227  2318 I PhoneStatusBar:00
+      1 46.764  2227  2794 E KeyguardUpdateMonitor:00
+      2 46.765  2227  2794 V KeyguardUpdateMonitor:00
+      4 46.765  2227  2794 W KeyguardUpdateMonitor:00
+      1 46.770  1702  2558 D ActivityManager:00
+      2 46.778  2626  2839 D PhoneInterfaceManager:00
+      1 46.914  1702  1815 I WindowManager:00
+      1 47.012  1702  2105 D PowerManagerService:00
+      1 47.013  1702  2105 D PowerManagerService:00
+      1 47.016  2227  2227 I PanelView:00
+      2 47.038  2227  2227 I StackScrollAlgorithm:00
+      1 47.078  2227  2227 I PanelView:00
+      2 47.091  2227  2227 V AudioManager:00
+      1 47.100  2227  2227 I PhoneStatusBar:00
+      1 47.101  2227  2227 I PanelView:00
+      1 47.102  2227  2318 I PhoneStatusBar:00
+      1 47.103  1702  3137 I NotificationManager:00
+      1 47.104  2227  2318 I PhoneStatusBar:00
+      1 47.113  1702 17622 I ActivityManager:00
+      1 47.114  1702 17622 I ActivityManager:00
+      2 47.124  2227  2227 I PhoneStatusBar:00
+      3 47.138  1702 17622 D PowerManagerService:00
+      1 47.149  1702 10454 I NotificationManager:00
+      1 47.149  1702  1702 I NotificationManager:00
+      4 47.150  1702  1702 I NotificationManager:00
+      1 47.150  1702 17633 E ActivityManager:00
+      2 47.224  2227  2227 I PanelView:00
+      2 47.254  2227  2227 I StackScrollAlgorithm:00
+      2 47.270  2227  2227 I StackScrollAlgorithm:00
+      2 47.287  2227  2227 I StackScrollAlgorithm:00
+      1 47.289  1702 17633 I WindowManager:00
+      2 47.305  2227  2227 I StackScrollAlgorithm:00
+      1 47.320  2227  2227 I StackScrollAlgorithm:00
+      1 47.321  2227  2227 I StackScrollAlgorithm:00
+      2 47.338  2227  2227 I StackScrollAlgorithm:00
+      2 47.341  1702  1702 I NotificationManager:00
+      2 47.357  2227  2227 I StackScrollAlgorithm:00
+      2 47.371  2227  2227 I StackScrollAlgorithm:00
+      1 47.396  2227  2227 I StackScrollAlgorithm:00
+      1 47.397  2227  2227 I StackScrollAlgorithm:00
+      2 47.402  2227  2227 I PhoneStatusBar:00
+      1 47.403  2227  2227 I PhoneStatusBar:00
+      1 47.405  1702 17621 D WindowManager:00
+      2 47.409  2227  2227 I StackScrollAlgorithm:00
+      2 47.410  1702 27357 I WindowManager:00
+      2 47.410  2227  2227 I PhoneStatusBar:00
+      2 47.425  2227  2227 I PhoneStatusBar:00
+      4 47.441  2227  2227 I StackScrollAlgorithm:00
+      1 47.448  2227  2227 I PhoneStatusBar:00
+      2 47.449  2227  2227 I PhoneStatusBar:00
+      1 47.450  2227  2227 I PhoneStatusBar:00
+      1 47.450  2227  2227 V PhoneStatusBar:00
+      4 47.460  2227  2227 I StackScrollAlgorithm:00
+      4 47.471  2227  2227 I StackScrollAlgorithm:00
+      1 47.489  2227  2227 I PhoneStatusBar:00
+      1 47.496  2227  2227 I PanelView:00
+      1 47.496  2227  2227 I PhoneStatusBar:00
+      2 47.498  2227  2227 I PhoneStatusBar:00
+      1 47.499  1702  2555 W ActivityManager:00
+      2 47.499  2227  2227 I StackScrollAlgorithm:00
+      4 47.517  1702  8671 D ActivityManager:00
+      2 47.518  1702  2105 D PowerManagerService:00
+      4 47.518  1702  8671 D ActivityManager:00
+      1 47.521  2227  2227 I PhoneStatusBar:00
+      2 47.524  1702 10454 D WindowManager:00
+      1 47.525  1702  2105 D PowerManagerService:00
+      1 47.525  1702 27353 D PowerManagerService:00
+      1 47.526  1702  2105 D PowerManagerService:00
+      5 47.547  1702  3694 D ActivityManager:00
+      1 47.578  1702  1702 I NotificationManager:00
+      1 47.578  1702  8671 I NotificationManager:00
+      1 47.585  1702  1702 I NotificationManager:00
+      1 47.585  1702 27353 I NotificationManager:00
+      1 47.585  2227  2227 I PhoneStatusBar:00
+      1 47.586  1702  8303 D PowerManagerService:00
+      1 47.587  1702  8303 D PowerManagerService:00
+      2 47.589  1702  3697 D WindowManager:00
+      1 47.590  1702  2113 I NotificationManager:00
+      1 47.590  2227  2318 V AudioManager:00
+      1 47.598  2227  2227 V PhoneStatusBar:00
+      2 47.599  2227  2227 I PhoneStatusBar:00
+      1 47.600  2227  2227 D PhoneStatusBar:00
+      1 47.600  2227  2227 I PanelView:00
+      2 47.600  2227  2227 I PhoneStatusBar:00
+      4 47.601  2227  2227 I PanelView:00
+      1 47.602  2227  2227 I PhoneStatusBar:00
+      1 47.603  2227  2227 D PhoneStatusBar:00
+      1 47.622  2227  2227 I PhoneStatusBar:00
+      2 47.625  1702  2105 D PowerManagerService:00
+      1 47.625  2227  2227 I PanelView:00
+      3 47.630  2227  2227 I PanelView:00
+      1 47.631  1702  1702 I NotificationManager:00
+      1 47.631  1702  2555 I NotificationManager:00
+      1 47.632  1702  1702 I NotificationManager:00
+      1 47.638  1702  2618 W ActivityManager:00
+      1 47.640  1702  3697 D PowerManagerService:00
+      1 47.641  1702  3697 D PowerManagerService:00
+      1 47.650  1702 17630 I NotificationManager:00
+      1 47.651  1702  1702 I NotificationManager:00
+      3 47.669  1702  2105 D PowerManagerService:00
+      1 47.681  1702  3694 I NotificationManager:00
+      1 47.691  1702  1737 I NotificationManager:00
+      1 47.694  1702 17632 I NotificationManager:00
+      1 47.695  1702  1702 I NotificationManager:00
+      2 47.700  1702  1702 I NotificationManager:00
+      1 47.707  1702  1702 I NotificationManager:00
+      1 47.707  1702 27357 I NotificationManager:00
+      2 47.709  1702  2113 D PowerManagerService:00
+      2 47.713  2227  2227 I StackScrollAlgorithm:00
+      1 47.735  2227  2227 V PhoneStatusBar:00
+      1 47.736  2227  2227 I PhoneStatusBar:00
+      1 47.743  2227  2794 V KeyguardUpdateMonitor:00
+      2 47.743  2227  2794 W KeyguardUpdateMonitor:00
+      2 47.746  1702 17621 I WindowManager:00
+      1 47.778  1702  8289 I WindowManager:00
+      1 47.810  2227  2227 V PhoneStatusBar:00
+      1 47.811  2227  2227 I PhoneStatusBar:00
+      1 47.846  1702  1820 D DisplayPowerController:00
+      2 47.846  1702  1820 I DisplayPowerController:00
+      2 47.927  1702  8290 I WindowManager:00
+      1 47.931  2227  2227 I PhoneStatusBar:00
+      1 47.931  2227  2227 V PhoneStatusBar:00
+      3 47.932  2227  2227 I PhoneStatusBar:00
+      1 47.943  2227  2227 V PhoneStatusBar:00
+      1 47.945  2227  2227 I PhoneStatusBar:00
+      2 47.945  2227  2227 I StackScrollAlgorithm:00
+      3 47.973  1702 17630 D ActivityManager:00
+      5 47.974  1702 17630 D ActivityManager:00
+      3 47.988  1702  2558 D ActivityManager:00
+      2 47.989  1702  2558 D ActivityManager:00
+      1 48.009  1702 10454 W ActivityManager:00
+      1 48.019  2227  2227 V PhoneStatusBar:00
+      1 48.020  2227  2227 I PhoneStatusBar:00
+      1 48.032  1702  2639 I WindowManager:00
+      1 48.077  1702  2395 W ActivityManager:00
+      1 48.106  2227  2227 I PhoneStatusBar:00
+      2 48.107  2227  2227 I PhoneStatusBar:00
+      1 48.120  1702  3697 W ActivityManager:00
+      1 48.241  1702  2556 D PowerManagerService:00
+      2 48.242  1702  2556 D PowerManagerService:00
+      1 48.334  1702 17622 I WindowManager:00
+      1 48.336  1702 17622 I WindowManager:00
+      1 48.426  1702 17630 W ActivityManager:00
+      1 48.432  1702 14638 W ActivityManager:00
+      1 48.552  1702  1820 I DisplayPowerController:00
+      1 48.553  1702  1820 D DisplayPowerController:00
+      1 48.553  1702  1820 I DisplayPowerController:00
+      1 48.612  7111  7111 V AudioManager:00
+      1 48.654  1702  2105 D PowerManagerService:00
+      1 48.655  1702  2105 D PowerManagerService:00
+      1 48.655  2227  2227 I PhoneStatusBar:00
+      2 48.659  1702  3694 D WindowManager:00
+      2 48.660  1702  2105 D PowerManagerService:00
+      1 48.689  2227  2227 I PhoneStatusBar:00
+      1 48.691  1702  2618 D PowerManagerService:00
+      1 48.692  1702  2618 D PowerManagerService:00
+      2 48.694  1702  3693 D WindowManager:00
+      1 48.698  2227  2318 V AudioManager:00
+      1 48.715  1702  2105 D PowerManagerService:00
+      1 48.716  1702  2105 D PowerManagerService:00
+      1 48.718  2227  2227 I PanelView:00
+      1 48.718  2227  2227 I PhoneStatusBar:00
+      3 48.719  2227  2227 I PanelView:00
+      1 49.204  1702  2105 D PowerManagerService:00
+      1 49.205  1702  2105 D PowerManagerService:00
+      2 49.206  3714  3714 V AudioManager:00
+      1 49.209  1702  2250 I ActivityManager:00
+      1 49.210  1702  2250 I ActivityManager:00
+      3 49.228  1702  2250 D PowerManagerService:00
+      2 49.436  1702  3694 I WindowManager:00
+      2 49.450  2227  2227 I StackScrollAlgorithm:00
+      1 49.462  2227  2227 I PhoneStatusBar:00
+      2 49.465  2227  2227 I PhoneStatusBar:00
+      1 49.472  2227  2227 I PhoneStatusBar:00
+      1 49.472  2227  2227 V PhoneStatusBar:00
+      4 49.497  1702  2633 D ActivityManager:00
+      4 49.498  1702  2633 D ActivityManager:00
+      3 49.507  1702 17621 D ActivityManager:00
+      2 49.508  1702 17621 D ActivityManager:00
+      1 49.524  2227  2227 V PhoneStatusBar:00
+      1 49.525  1702 27353 I NotificationManager:00
+      1 49.525  2227  2227 I PhoneStatusBar:00
+      3 49.527  1702  1702 I NotificationManager:00
+      2 49.528  1702  1702 I NotificationManager:00
+      1 49.528  1702  2250 I NotificationManager:00
+      2 49.529  1702  1702 I NotificationManager:00
+      1 49.529  1702  2555 I NotificationManager:00
+      1 49.535  1702  1702 I NotificationManager:00
+      1 49.536  1702  1702 I NotificationManager:00
+      1 49.537  2227  2227 I PhoneStatusBar:00
+      2 49.539  2227  2227 I PhoneStatusBar:00
+      1 49.542  1702  2639 I NotificationManager:00
+      1 49.545  1702 14638 I NotificationManager:00
+      2 49.552  1702  1702 I NotificationManager:00
+      1 49.554  1702  2113 I NotificationManager:00
+      1 49.555  1702  1702 I NotificationManager:00
+      1 49.559  1702 17621 I NotificationManager:00
+      1 49.560  1702  1702 I NotificationManager:00
+      1 49.562  2227  2227 V PhoneStatusBar:00
+      1 49.562  2626  2808 W PhoneInterfaceManager:00
+      1 49.563  2227  2227 I PhoneStatusBar:00
+      2 49.564  2227  2227 I PhoneStatusBar:00
+      1 49.566  1702 10454 I NotificationManager:00
+      1 49.567  1702  1702 I NotificationManager:00
+      2 49.568  2227  2227 I PhoneStatusBar:00
+      1 49.569  2227  2227 I PanelView:00
+      1 49.572  2227  2227 I PanelView:00
+      2 49.573  2227  2227 I PanelView:00
+      1 49.576  1702  2618 D PowerManagerService:00
+      2 49.577  1702  2618 D PowerManagerService:00
+      2 49.585  2227  2227 I StackScrollAlgorithm:00
+      1 49.587  2227  2227 I PhoneStatusBar:00
+      1 49.587  2227  2227 V PhoneStatusBar:00
+      1 49.590  2227  2227 I PhoneStatusBar:00
+      1 49.590  2227  2227 V PhoneStatusBar:00
+      1 49.593  1702  1702 I NotificationManager:00
+      1 49.593  1702 17632 I NotificationManager:00
+      1 49.595  2626  2808 D PhoneInterfaceManager:00
+      1 49.595  2626  2808 I PhoneInterfaceManager:00
+      1 49.670  2227  2227 I PhoneStatusBar:00
+      1 49.670  2227  2227 V PhoneStatusBar:00
+      1 49.678  2227  2227 I PhoneStatusBar:00
+      1 49.678  2227  2227 V PhoneStatusBar:00
+      1 49.719  2227  2227 V PhoneStatusBar:00
+      1 49.720  2227  2227 I PhoneStatusBar:00
+      1 49.927  1702  2618 W ActivityManager:00
+      1 50.038  1702 17633 W ActivityManager:00
+      1 50.042  1702  8290 W ActivityManager:00
+      1 50.107 23650 23685 V AudioManager:00
+      1 50.111 23650 23685 V AudioManager:00
+      1 50.121 23650 23685 V AudioManager:00
+      1 50.442  1702  2105 D PowerManagerService:00
+      1 50.444  1702  2105 D PowerManagerService:00
+      2 50.485 28601 28601 V AudioManager:00
+      1 50.539  2227  2227 V PhoneStatusBar:00
+      1 50.540  2227  2227 I PhoneStatusBar:00
+      1 50.662 23650 23689 V AudioManager:00
+      1 50.757  1702  1820 D DisplayPowerController:00
+      2 50.757  1702  1820 I DisplayPowerController:00
+      1 50.766  1702  3693 I ActivityManager:00
+      1 51.057  1702  1820 D DisplayPowerController:00
+      2 51.057  1702  1820 I DisplayPowerController:00
+      1 51.183  2626  3066 W PhoneInterfaceManager:00
+      1 51.189  2626  3066 D PhoneInterfaceManager:00
+      1 51.189  2626  3066 I PhoneInterfaceManager:00
+      1 51.192  2626  2643 W PhoneInterfaceManager:00
+      1 51.199  2626  2643 I PhoneInterfaceManager:00
+      1 51.200  2626  2643 D PhoneInterfaceManager:00
+      1 51.236  1702  2395 W ActivityManager:00
+      1 51.359  1702  1820 D DisplayPowerController:00
+      2 51.359  1702  1820 I DisplayPowerController:00
+      1 51.546  1702  2105 D PowerManagerService:00
+      1 51.547  1702  2105 D PowerManagerService:00
+      1 51.659  1702  1820 D DisplayPowerController:00
+      2 51.659  1702  1820 I DisplayPowerController:00
+      1 51.698  2227  2227 V PhoneStatusBar:00
+      1 51.699  2227  2227 I PhoneStatusBar:00
+      1 51.708  2227  2227 V PhoneStatusBar:00
+      1 51.709  2227  2227 I PhoneStatusBar:00
+      1 51.769  2227  2227 V PhoneStatusBar:00
+      1 51.770  2227  2227 I PhoneStatusBar:00
+      1 51.781  2227  2227 I PhoneStatusBar:00
+      1 51.781  2227  2227 V PhoneStatusBar:00
+      1 51.792  2227  2227 I PhoneStatusBar:00
+      1 51.792  2227  2227 V PhoneStatusBar:00
+      1 51.807  2227  2227 I PhoneStatusBar:00
+      1 51.807  2227  2227 V PhoneStatusBar:00
+      1 51.815  2227  2227 V PhoneStatusBar:00
+      1 51.816  2227  2227 I PhoneStatusBar:00
+      1 51.831  2227  2227 V PhoneStatusBar:00
+      1 51.832  2227  2227 I PhoneStatusBar:00
+      1 51.839  2227  2227 I PhoneStatusBar:00
+      1 51.839  2227  2227 V PhoneStatusBar:00
+      1 51.850  2227  2227 I PhoneStatusBar:00
+      1 51.850  2227  2227 V PhoneStatusBar:00
+      1 51.863  2227  2227 I PhoneStatusBar:00
+      1 51.863  2227  2227 V PhoneStatusBar:00
+      1 51.865  1702  1820 I DisplayPowerController:00
+      1 51.866  1702  1820 D DisplayPowerController:00
+      1 51.866  1702  1820 I DisplayPowerController:00
+      1 51.878  2227  2227 V PhoneStatusBar:00
+      1 51.879  2227  2227 I PhoneStatusBar:00
+      1 51.894  2227  2227 V PhoneStatusBar:00
+      1 51.895  2227  2227 I PhoneStatusBar:00
+      1 51.910  2227  2227 V PhoneStatusBar:00
+      1 51.911  2227  2227 I PhoneStatusBar:00
+      1 51.926  2227  2227 I PhoneStatusBar:00
+      1 51.926  2227  2227 V PhoneStatusBar:00
+      1 51.942  2227  2227 I PhoneStatusBar:00
+      1 51.942  2227  2227 V PhoneStatusBar:00
+      2 52.281  1702  2105 D PowerManagerService:00
+      1 52.365  2227  2227 I PhoneStatusBar:00
+      1 52.365  2227  2227 V PhoneStatusBar:00
+      1 52.379  2227  2227 V PhoneStatusBar:00
+      1 52.380  2227  2227 I PhoneStatusBar:00
+      1 52.429  2227  2227 I PhoneStatusBar:00
+      1 52.429  2227  2227 V PhoneStatusBar:00
+      1 52.445  2227  2227 V PhoneStatusBar:00
+      1 52.446  2227  2227 I PhoneStatusBar:00
+      1 52.525  2227  2227 V PhoneStatusBar:00
+      1 52.526  2227  2227 I PhoneStatusBar:00
+      1 52.546  2227  2227 I PhoneStatusBar:00
+      1 52.546  2227  2227 V PhoneStatusBar:00
+      1 52.561  2626  2838 W PhoneInterfaceManager:00
+      1 52.569  2626  2838 D PhoneInterfaceManager:00
+      1 52.569  2626  2838 I PhoneInterfaceManager:00
+      1 53.082  1702  2105 D PowerManagerService:00
+      1 53.084  1702  2105 D PowerManagerService:00
+      1 53.180  2227  2227 I PhoneStatusBar:00
+      1 53.180  2227  2227 V PhoneStatusBar:00
+      1 53.261  1702  1820 D DisplayPowerController:00
+      2 53.261  1702  1820 I DisplayPowerController:00
+      1 53.717  1702  2105 D PowerManagerService:00
+      1 53.718  1702  2105 D PowerManagerService:00
+      1 54.045  1702 17633 W ActivityManager:00
+      1 54.045  1702  2556 W ActivityManager:00
+      1 54.046  1702 17633 W ActivityManager:00
+      1 54.640  1702 17622 W ActivityManager:00
+      1 54.640  1702  8289 W ActivityManager:00
+      1 54.641  1702  2107 W ActivityManager:00
+      1 54.676  1702  2107 W ActivityManager:00
+      2 54.721  1702  2105 D PowerManagerService:00
+      1 54.735  1702  2106 D PowerManagerService:00
+      2 54.736  1702  2106 D PowerManagerService:00
+      1 54.744  1702  1702 V AudioManager:00
+      2 54.745  1702  1702 D PowerManagerService:00
+      1 54.746  1702  1702 D PowerManagerService:00
+      1 54.746  1702  1702 V AudioManager:00
+      1 54.747  1702  1702 D PowerManagerService:00
+      1 54.754 23650 23689 V AudioManager:00
+      1 54.798  2227  2227 V PhoneStatusBar:00
+      1 54.799  2227  2227 I PhoneStatusBar:00
+      1 54.820  2227  2227 I PhoneStatusBar:00
+      1 54.820  2227  2227 V PhoneStatusBar:00
+      1 54.877  1702 27357 D ActivityManager:00
+      1 55.032  2227  2227 V PhoneStatusBar:00
+      1 55.033  2227  2227 I PhoneStatusBar:00
+      1 55.046  1702 14638 W ActivityManager:00
+      1 55.046  1702 17632 W ActivityManager:00
+      1 55.046  1702  2395 W ActivityManager:00
+      1 55.047  1702  3697 W ActivityManager:00
+      1 55.055  2227  2227 V PhoneStatusBar:00
+      1 55.056  2227  2227 I PhoneStatusBar:00
+      1 55.172  1702  1820 I DisplayPowerController:00
+      1 55.173  1702  1820 D DisplayPowerController:00
+      1 55.173  1702  1820 I DisplayPowerController:00
+      1 55.673  1702  2105 D PowerManagerService:00
+      1 55.674  1702  2105 D PowerManagerService:00
+      1 55.751  2227  2227 I PhoneStatusBar:00
+      1 55.751  2227  2227 V PhoneStatusBar:00
+      1 55.771  2227  2227 I PhoneStatusBar:00
+      1 55.771  2227  2227 V PhoneStatusBar:00
+      1 55.783  1702  2113 D PowerManagerService:00
+      1 55.784  1702  2113 D PowerManagerService:00
+      1 55.791  1702  2153 D PowerManagerService:00
+      1 55.793  1702  2153 D PowerManagerService:00
+      1 55.800 28601 28601 V AudioManager:00
+      1 55.804 23650 23689 V AudioManager:00
+      1 55.813 28601 28601 V AudioManager:00
+      1 55.819 23650 23689 V AudioManager:00
+      1 55.821  2227  2514 V AudioManager:00
+      1 55.823 23650 23689 V AudioManager:00
+      1 55.827  1702 17632 D PowerManagerService:00
+      1 55.832  1702  1702 D PowerManagerService:00
+      1 55.834  1702  1702 I NotificationManager:00
+      1 55.836  1702 10454 W ActivityManager:00
+      1 55.838  1702  3137 W ActivityManager:00
+      1 55.839  1702  2639 D PowerManagerService:00
+      1 55.867  1702  3693 W ActivityManager:00
+      1 55.869  1702 14640 W ActivityManager:00
+      1 55.875  1702  2250 W ActivityManager:00
+      1 55.879  2227  2514 V AudioManager:00
+      1 55.882  2227  2514 V AudioManager:00
+      1 55.883  1702 27353 W ActivityManager:00
+      1 55.885  1702  2395 D PowerManagerService:00
+      1 55.889  2227  2514 V AudioManager:00
+      1 55.891  2227  2514 V AudioManager:00
+      1 55.893  2227  2514 V AudioManager:00
+      1 55.894  1702  2639 W ActivityManager:00
+      1 55.896  1702  2113 W ActivityManager:00
+      1 55.896  2227  2514 V AudioManager:00
+      1 55.899  2227  2514 V AudioManager:00
+      1 55.904  2227  2514 V AudioManager:00
+      1 55.906  2227  2514 V AudioManager:00
+      1 55.921  2227  2514 V AudioManager:00
+      1 55.937  1702  1737 D ActivityManager:00
+      1 55.937  1702  1737 I ActivityManager:00
+      1 55.938  1702  1737 I ActivityManager:00
+      2 55.940  1702  2639 I DisplayManagerService:00
+      1 55.941 30852 30852 V AudioManager:00
+      1 55.944 30852 30852 V AudioManager:00
+      1 55.948 30852 30852 I AudioManager:00
+      1 55.970  2227  2227 V PhoneStatusBar:00
+      1 55.971  2227  2227 I PhoneStatusBar:00
+      1 55.992  2227  2227 I PhoneStatusBar:00
+      1 55.992  2227  2227 V PhoneStatusBar:00
+      1 56.080  1702 17621 W ActivityManager:00
+      2 56.126  1702  1737 D PowerManagerService:00
+      1 56.170  2227  2227 V PhoneStatusBar:00
+      1 56.171  2227  2227 I PhoneStatusBar:00
+      1 56.177  1702  2644 W ActivityManager:00
+      1 56.190  2227  2227 V PhoneStatusBar:00
+      1 56.191  2227  2227 I PhoneStatusBar:00
+      1 56.261  1702  1737 W ActivityManager:00
+      1 56.290  1702  2105 D PowerManagerService:00
+      1 56.291  1702  2105 D PowerManagerService:00
+      1 56.326  1702 17632 D PowerManagerService:00
+      1 56.327  1702 17632 D PowerManagerService:00
+      1 56.351  2227  2227 V PhoneStatusBar:00
+      1 56.352  2227  2227 I PhoneStatusBar:00
+      1 56.372  2227  2227 I PhoneStatusBar:00
+      1 56.372  2227  2227 V PhoneStatusBar:00
+      1 56.571  1702  1820 D DisplayPowerController:00
+      2 56.571  1702  1820 I DisplayPowerController:00
+      1 56.791  1702  2105 D PowerManagerService:00
+      1 56.792  1702  2105 D PowerManagerService:00
+      1 56.872  1702  1820 D DisplayPowerController:00
+      2 56.872  1702  1820 I DisplayPowerController:00
+      1 56.882  2227  2227 V PhoneStatusBar:00
+      1 56.883  2227  2227 I PhoneStatusBar:00
+      1 57.745  1702  2105 D PowerManagerService:00
+      1 57.746  1702  2105 D PowerManagerService:00
+      2 57.980  1702  1820 I DisplayPowerController:00
+      1 57.981  1702  1820 D DisplayPowerController:00
+      1 58.224  2227  2227 I PhoneStatusBar:00
+      1 58.224  2227  2227 V PhoneStatusBar:00
+      1 58.244  2227  2227 V PhoneStatusBar:00
+      1 58.245  2227  2227 I PhoneStatusBar:00
+      1 58.282  1702  1820 D DisplayPowerController:00
+      2 58.282  1702  1820 I DisplayPowerController:00
+      1 58.413  1702  2105 D PowerManagerService:00
+      1 58.414  1702  2105 D PowerManagerService:00
+      1 58.458  2227  2227 I PhoneStatusBar:00
+      1 58.458  2227  2227 V PhoneStatusBar:00
+      1 58.475  2227  2227 I PhoneStatusBar:00
+      1 58.475  2227  2227 V PhoneStatusBar:00
+      1 58.485  1702  1820 D DisplayPowerController:00
+      2 58.485  1702  1820 I DisplayPowerController:00
+      1 58.582  1702  1820 I DisplayPowerController:00
+      1 58.583  1702  1820 D DisplayPowerController:00
+      1 58.583  1702  1820 I DisplayPowerController:00
+      1 58.675  2227  2227 V PhoneStatusBar:00
+      1 58.676  2227  2227 I PhoneStatusBar:00
+      1 58.701  2227  2227 I PhoneStatusBar:00
+      1 58.701  2227  2227 V PhoneStatusBar:00
+      1 58.796  1702  8303 D PowerManagerService:00
+      2 58.797  1702  8303 D PowerManagerService:00
+      1 58.883  1702  1820 I DisplayPowerController:00
+      1 58.884  1702  1820 D DisplayPowerController:00
+      1 58.884  1702  1820 I DisplayPowerController:00
+      1 59.099  1702  2105 D PowerManagerService:00
+      1 59.100  1702  2105 D PowerManagerService:00
+      1 59.172  2227  2227 I PhoneStatusBar:00
+      1 59.172  2227  2227 V PhoneStatusBar:00
+      2 59.185  1702  1820 I DisplayPowerController:00
+      1 59.186  1702  1820 D DisplayPowerController:00
+      1 59.488  1702  1820 D DisplayPowerController:00
+      2 59.488  1702  1820 I DisplayPowerController:00
+      1 59.790  1702  1820 D DisplayPowerController:00
+      2 59.790  1702  1820 I DisplayPowerController:00
+      1 59.850  1702  2105 D PowerManagerService:00
+      1 59.851  1702  2105 D PowerManagerService:00
+
+8.  Status Code Breakdown:
+762
+    181 mask=1
+    170 =38
+     85 target=38,
+     66 blocker
+     65 getTopPadding=333.0,
+     63 false,
+     63 10111
+     54 event=2,
+     37 ...
+     26 flags=0x1,
+     25 10113
+     20 28601,uid
+     19 mask=ffffffff
+     18 10091
+     15 in
+     14 interactive=true
+     12 0
+     11 =
+      9 event=0,
+      8 tag="*launch*",
+      8 3
+      7 tag="RILJ_ACK_WL",
+      7 active=1
+      7 4
+      7 10027
+      6 tag="AudioMix",
+      6 Surface(name=PopupWindow:317e46)
+      6 start
+      6 pid:
+      6 over
+      6 notificationLight
+      6 expand
+      6 event=1,
+      6 delayed=false,
+      6 active=0
+      5 Surface(name=PopupWindow:9b04807)
+      5 from
+      5 false
+      5 app
+      4 blocked
+      4 10020
+      4 {
+      3 user=0
+      3 Surface(name=InputMethod)
+      3 orientation
+      3 newYTranslation:-220.0,
+      3 execute
+      3 callback
+      3 android.intent.action.TIME_TICK
+      3 alarm;
+      3 3
+      2 token=Token{a64f992
+      2 token=Token{78af589
+      2 the
+      2 Surface(name=PopupWindow:d76a91d)
+      2 Surface(name=com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity)
+      2 Surface(name=com.example.android.notepad/com.example.android.notepad.NoteEditor)
+      2 subId=1
+      2 resid:
+      2 is
+      2 delayed=true,
+      2 broadcast
+      2 as
+      2 animationType=0
+      2 {act=android.intent.action.MAIN
+      2 5
+      2 23
+      2 13094
+      1 y=327.0
+      1 y=14.0
+      1 wtoken
+      1 true
+      1 token:
+      1 tag="WiredAccessoryManager",
+      1 tag="WindowManager",
+      1 tag="View
+      1 tag="SCREEN_FROZEN",
+      1 tag="handleAudioEvent",
+      1 system.time.showampm
+      1 system.ownerinfo.show
+      1 system.message.count
+      1 system.charge.show
+      1 system.call.count
+      1 Surface(name=SurfaceView
+      1 Surface(name=PopupWindow:6ac503e)
+      1 Surface(name=com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity)
+      1 Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.MainTabActivity)
+      1 Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity)
+      1 start
+      1 pluggedType:
+      1 (pid
+      1 of
+      1 newYTranslation:-95.0,
+      1 newYTranslation:-85.0,
+      1 newYTranslation:-5.0,
+      1 newYTranslation:-46.0,
+      1 newYTranslation:-213.0,
+      1 newYTranslation:-196.0,
+      1 newYTranslation:-164.0,
+      1 newYTranslation:-154.0,
+      1 newYTranslation:-146.0,
+      1 newYTranslation:-119.0,
+      1 mIsPowered=false,
+      1 id=4097
+      1 id=121
+      1 for
+      1 {flg=0x24000000
+      1 false
+      1 expand=true,
+      1 expand=false,
+      1 destructor
+      1 com.tencent.qt.qtl
+      1 com.android.phone
+      1 cannot
+      1 calling
+      1 app=ProcessRecord{6eaaf00
+      1 android.intent.action.BATTERY_CHANGED
+      1 Alarm{d764221
+      1 Alarm{c1705d3
+      1 Alarm{aa90550
+      1 Alarm{2741459
+      1 Alarm{19069ff
+      1 (adj
+      1 ActivityInfo{f39182
+      1 ActivityInfo{d1c8e63
+      1 ActivityInfo{80c2e70
+      1 ActivityInfo{71e60ba
+      1 {act=com.tencent.mobileqq.action.MAINACTIVITY
+      1 8
+      1 7
+      1 6
+      1 5784,
+      1 5784
+      1 5769,
+      1 5769
+      1 576460752303423487)
+      1 4
+      1 23484,
+      1 23484
+      1 -2147483632
+      1 2
+      1 13175
+      1 13094,
+      1 13003:com.tencent.mobileqq:qzone/u0a111
+      1 13003
+      1 12787
+      1 12236,
+      1 12236
+      1 12025,
+      1 12025
+      1 10112
+      1 10111,callingPid
+      1 10037,callingPid
+      1 1
+      1 -1
+      1 0;
+----------------------------
+
+9.  Most Active IP by Method:
+----------------------------
+GET:
+POST:
+
+10.  Failure Patterns (hours/days):
+----------------------------
+By Hour:
+     15 :00
+
+By Day:
+      2 7111//
+      2 3693//
+      2 2514//
+      2 1737//
+      1 3137//
+      1 27357//
+      1 27353//
+      1 2107//
+      1 1702//
+      1 14640//
